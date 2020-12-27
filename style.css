@@ -76,6 +76,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
 }
 
 .col-12.list-item-content {
