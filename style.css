@@ -73,10 +73,15 @@
 .list-content-wrapper {
     padding: 0 20px;
     height: calc(100vh - 47px);
+}
+
+.ilkyazi {
+    width: 100%;
+    text-align: center;
+    height: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-direction: column;
 }
 
 .col-12.list-item-content {
