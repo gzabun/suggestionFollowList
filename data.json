@@ -407,8 +407,77 @@
                 "name": "CSS-Tricks",
                 "url": "https://twitter.com/css",
                 "description": "The official account for http://CSS-Tricks.com"
+            },
+            {
+                "name": "Azmi Mengü",
+                "url": "https://twitter.com/azmimengu",
+                "description": "Software Architect - AWS Community Builder"
+            },
+            {
+                "name": "Serhat Can",
+                "url": "https://twitter.com/srhtcn",
+                "description": "Builder • Principle Tech Evangelist at @Atlassian • AWS Community Hero"
+            },
+            {
+                "name": "Mert Susur",
+                "url": "https://twitter.com/MertSusur",
+                "description": "Engineering Manager @GoCardless | Podcast @codefictiontech"
+            },
+            {
+                "name": "Merve Noyan",
+                "url": "https://twitter.com/mervenoyann",
+                "description": "@GoogleDevExpert on ML"
+            },
+            {
+                "name": "Merve Noyan",
+                "url": "https://twitter.com/koziLife",
+                "description": "Developer. Mentor. Dream Catcher. @kadinyazilimci"
+            },
+            {
+                "name": "Eser Ozvataf",
+                "url": "https://twitter.com/eser",
+                "description": "Thinks, Plans, Makes Development, Talks on Software"
+            },
+            {
+                "name": "Fırat Demirel",
+                "url": "https://twitter.com/firatdemirel",
+                "description": "Tech writer. Playing w/ startups since 2007. Founder of @girisimler_net"
+            },
+            {
+                "name": "Cenk Çivici",
+                "url": "https://twitter.com/cenkcivici",
+                "description": "Techie@Trendyol"
+            },
+            {
+                "name": "Barış Ceviz",
+                "url": "https://twitter.com/peacecwz",
+                "description": "Software Engineer @Trendyol"
+            },
+            {
+                "name": "Osman Makal",
+                "url": "https://twitter.com/osmanmakal",
+                "description": "#Entrepreneur and CEO/CTO @Netinternet"
+            },
+            {
+                "name": "Hatice",
+                "url": "https://twitter.com/hadeyici",
+                "description": "Developer"
+            },
+            {
+                "name": "Üstün Özgür",
+                "url": "https://twitter.com/UstunOzgur",
+                "description": "Software Engineer. PyCon Turkey Co-organizer."
+            },
+            {
+                "name": "Sanal Kurs",
+                "url": "https://twitter.com/sanalkursnet",
+                "description": "Türkiye'nin en büyük ücretsiz online eğitim platformu."
+            },
+            {
+                "name": "Hatice Edis",
+                "url": "https://twitter.com/edisdev",
+                "description": "Front-End Developer at @weareprotein @protelturkiye"
             }
-
         ]
 
     },
@@ -885,6 +954,11 @@
                 "name": "Sercan Eraslan",
                 "url": "https://codepen.io/sercaneraslan",
                 "description": "Sercan eraslan’ın çalışmaları"
+            },
+            {
+                "name": "Adam Argyle",
+                "url": "https://codepen.io/argyleink",
+                "description": "#CSS #JS #UX"
             }
         ]
     },
@@ -1019,6 +1093,26 @@
                 "name": "Clean Code",
                 "url": "https://github.com/foss-dev/clean-code-javascript-tr",
                 "description": "JS Clean Code ile ilgili Dökümanlar"
+            },
+            {
+                "name": "Hatice Edis",
+                "url": "https://github.com/edisdev",
+                "description": "Front End Developer"
+            },
+            {
+                "name": "Fatih Kadir Akın",
+                "url": "https://github.com/f",
+                "description": "Front End Developer"
+            },
+            {
+                "name": "Brad Traversy",
+                "url": "https://github.com/bradtraversy",
+                "description": "#JS #CSS #HTML"
+            },
+            {
+                "name": "Adam Argyle",
+                "url": "https://github.com/argyleink",
+                "description": "CSS/JS/UX"
             }
 
         ]
