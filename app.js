@@ -1,4 +1,4 @@
-function getir(child) {
+function listele(data) {
 
     $.ajax({
         type: "GET",
@@ -6,42 +6,49 @@ function getir(child) {
         url: 'data.json',
         success: function(result) {
 
+            let socialMedia = result[data]
+            let hesap = socialMedia.takip
+            let content = ''
+            let htmlContent = ''
 
+            function getSortOrder(param) {
+                return function(x, y) {
+                    if (x[param] > y[param]) {
+                        return 1
+                    } else if (x[param] < y[param]) {
+                        return -1
+                    }
+                    return 0
+                }
+            }
 
-            var socialMedia = result[child]
+            hesap.sort(getSortOrder("name"));
 
-
-            var sa = ''
-            socialMedia.takip.forEach(element => {
-                sa += `<div class="col-12 list-item d-flex">
-                            <a class="col-3" href="${element.url}" target="_blank">${element.name}</a>
-                            <span class="col-9">${element.description}</span> 
+            hesap.forEach(item => {
+                content += `<div class="col-12 list-item d-flex">
+                            <a class="col-3" href="${item.url}" target="_blank">${item.name}</a>
+                            <span class="col-9">${item.description}</span> 
                         </div>`
-            });
+            })
 
+            htmlContent = `   
+            <div class="fl col-12 list-header-wrap">
+                <span class="list-header">${socialMedia.name}</span>
+                <input type="text" id="search-item" placeholder="Aramak İstediğiniz Kelimeyi Giriniz...">
 
+            </div>
+                        
+            <div class="fl col-12 list-content-wrap">
+            <div class="col-12 d-flex">
+                <span class="col-3">Hesap </span>
+                <span class="col-9">Açıklama</span>
+            </div>
+            <div class="col-12 list-item-content">${content}</div>`
 
-
-            var htmlBody = `   
-        <div class="fl col-12 list-header-wrap">
-            <span class="list-header">${socialMedia.name}</span>
-            <input type="text" id="search-item" placeholder="Aramak İstediğiniz Kelimeyi Giriniz...">
-
-        </div>
-                    
-        <div class="fl col-12 list-content-wrap">
-        <div class="col-12 d-flex"><span class="col-3">Hesap</span><span class="col-9">Açıklama</span></div>
-        <div class="col-12 list-item-content">${sa}</div>
-
-        
-        `
-
-            $('.list-content-wrapper').html(`${htmlBody}`)
+            $('.list-content-wrapper').html(`${htmlContent}`)
 
         }
     })
-
-
 
 }
 
@@ -49,12 +56,9 @@ $(document).ready(function() {
 
 
     $('.social-item').click(function(e) {
+        var data = $(this).attr('data-name');
 
-        var child = $(this).attr('data-name');
-
-        getir(child)
-
-
+        listele(data)
     })
 
     $('.list-content-wrapper').on('keyup', '#search-item', function() {
@@ -63,10 +67,5 @@ $(document).ready(function() {
             $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
         });
     })
-
-
-
-
-
 
 });
