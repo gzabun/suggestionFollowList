@@ -1033,6 +1033,16 @@
                 "name": "Css Arrow",
                 "url": "https://cssarrowplease.com/",
                 "description": "Arrow oluşturma aracı"
+            },
+            {
+                "name": "SVG Editor",
+                "url": "https://editor.method.ac/",
+                "description": "Online Svg Editör"
+            },
+            {
+                "name": "Clamp Editor",
+                "url": "https://maximeroudier.com/typeScaleClampGenerator/",
+                "description": "Calculate clamp for screen"
             }
 
         ]
@@ -1113,6 +1123,16 @@
                 "name": "Adam Argyle",
                 "url": "https://github.com/argyleink",
                 "description": "CSS/JS/UX"
+            }
+
+        ]
+    },
+    "npm": {
+        "name": "Npm Paketleri",
+        "takip": [{
+                "name": "Scroller JS",
+                "url": "http://scrollerjs.com/",
+                "description": "Scroll Paketi"
             }
 
         ]
