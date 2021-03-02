@@ -931,6 +931,31 @@
                 "description": "Burak Can’ın kodlamaları var css ağırlıklı"
             },
             {
+                "name":"Killerek",
+                "url":"https://codepen.io/killerek/",
+                "description":"#js #idle"
+            },
+            {
+                "name":"Amit Sheen",
+                "url":"https://codepen.io/amit_sheen/",
+                "description":"#js #css"
+            },
+            {
+                "name":"Aaron Iker",
+                "url":"https://codepen.io/aaroniker",
+                "description":"#css #component #element #ui"
+            },
+            {
+                "name":"Carolina Artz",
+                "url":"https://codepen.io/carolineartz/",
+                "description":"#art"
+            },
+            {
+                "name":"Housamz",
+                "url":"https://codepen.io/housamz",
+                "description":"#interactive"
+            },
+            {
                 "name": "Adam Dipinto",
                 "url": "https://codepen.io/AdamDipinto",
                 "description": "Çeşitli css pratikleri"
@@ -968,6 +993,16 @@
                 "name": "HTML to PUG",
                 "url": "https://html-to-pug.com/",
                 "description": "HTML kodları Pug koduna çeviren araç"
+            },
+            {
+                "name": "CSS Filter Generator",
+                "url": "https://codepen.io/sosuke/pen/Pjoqqp?editors=1010",
+                "description": "#CSS #filter #generator"
+            },
+            {
+                "name": "CSS Specificity calculator",
+                "url": "https://codepen.io/certainlyakey/pen/ycEAh",
+                "description": "#CSS #filter #generator"
             },
             {
                 "name": "Hex To Rgba",
@@ -1053,6 +1088,11 @@
                 "name": "Web Skills",
                 "url": "https://github.com/andreasbm/web-skills",
                 "description": "Web programlama için yol haritası"
+            },
+            {
+                "name": "Okan Davut",
+                "url": "https://github.com/okandavut",
+                "description": "#Front End"
             },
             {
                 "name": "Scroll Booster",
