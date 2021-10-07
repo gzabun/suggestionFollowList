@@ -936,6 +936,16 @@
                 "description": "Burak Can’ın kodlamaları var css ağırlıklı"
             },
             {
+                "name":"Jamie Coulter",
+                "url":"https://codepen.io/jcoulterdesign",
+                "description":"#css #js"
+            },
+            {
+                "name":"Voxel Model",
+                "url":"https://codepen.io/jcoulterdesign/pen/vYyzZdo",
+                "description":"#dynamic #model"
+            },
+            {
                 "name":"Killerek",
                 "url":"https://codepen.io/killerek/",
                 "description":"#js #idle"
@@ -1168,6 +1178,121 @@
                 "name": "Adam Argyle",
                 "url": "https://github.com/argyleink",
                 "description": "CSS/JS/UX"
+            },
+            {
+                "name":"Codefiction",
+                "url": "https://github.com/codefiction",
+                "description": "Codefiction Podcast"
+            },
+            {
+                "name":"Murat Çorlu",
+                "url": "https://github.com/muratcorlu",
+                "description": "#Angular"
+            },
+            {
+                "name":"Mehmet Yurtar",
+                "url": "https://github.com/yurtarmehmet",
+                "description": "#React"
+            },
+            {
+                "name":"Oğuzhan Aslan",
+                "url": "https://github.com/oguzhanaslan",
+                "description": "#FrontEnd #MicroFrontEnd" 
+            },
+            {
+                "name":"Levent Arman Özak",
+                "url": "https://github.com/armanozak",
+                "description": "#Angular"
+            },
+            {
+                "name":"Sadık Turan",
+                "url": "https://github.com/sadikturan",
+                "description": "#Front End"
+            },
+            {
+                "name":"Volkan Özçelik",
+                "url": "https://github.com/v0lkan",
+                "description": "#JS"
+            },
+            {
+                "name":"Armağan Amcalar",
+                "url": "https://github.com/dashersw",
+                "description": "#JS"
+            },
+            {
+                "name":"Bruno Simon",
+                "url": "https://github.com/brunosimon",
+                "description": "#JS"
+            },
+            {
+                "name":"30 Second Of Code",
+                "url": "https://github.com/30-seconds/30-seconds-of-code",
+                "description": "#JS Best Practise"
+            },
+            {
+                "name":"Türkçe Clean Code Kılavuzu",
+                "url": "https://github.com/alirizaadiyahsi/refactoring-guide-in-turkish",
+                "description": "https://github.com/foss-dev/clean-code-javascript-tr"
+            },
+            {
+                "name":"IronHack",
+                "url": "https://github.com/ironhack",
+                "description": "#JS #CSS #Example"
+            },
+            {
+                "name":"Javascript Questions",
+                "url":"https://github.com/lydiahallie/javascript-questions",
+                "description":"#JS #Question"
+            },
+            {
+                "name":"Front End BookMarks",
+                "url":"https://github.com/dypsilon/frontend-dev-bookmarks",
+                "description":"Front End Bookmarks"
+            },
+            {
+                "name":"Airbnb Js Styleguide",
+                "url":"https://github.com/airbnb/javascript",
+                "description":"Airbnb JavaScript Style Guide"
+            },
+            {
+                "name":"Awesome Cheatsheet",
+                "url":"https://github.com/LeCoupa/awesome-cheatsheets",
+                "description":"JS,HTML,CSS and more cheatsheet"
+            },
+            {
+                "name":"Jobs Hiring",
+                "url":"https://github.com/poteto/hiring-without-whiteboards",
+                "description":"Hiring Without Whiteboards"
+            },
+            {
+                "name":"Lovell Fuller",
+                "url":"https://github.com/lovell",
+                "description":"#JS #Avif-cli"
+            },
+            {
+                "name":"Uncss",
+                "url":"https://github.com/uncss/uncss",
+                "description":"uncss"
+            },
+            {
+                "name":"Windows UI for Web",
+                "url":"https://github.com/mehmetsagir/windows-ui",
+                "description":"Windows UI for Web , CSS , VUE"
+            },
+            {
+                "name":"Coding Garden with CJ",
+                "url":"https://github.com/CodingGarden",
+                "description":"#JS #CSS #Example"
+            },
+            {
+                "name":"JavaScript Algorithms Handbook",
+                "url":"https://github.com/trekhleb/javascript-algorithms",
+                "description":"JavaScript Algorithms and Data Structures"
+            },
+            {
+                "name":"Awesome Design Patterns",
+                "url":"https://github.com/DovAmir/awesome-design-patterns",
+                "description":"Few Awesome Software and Architectural Design Patterns"
             }
 
         ]
