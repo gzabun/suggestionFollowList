@@ -768,7 +768,7 @@
             },
             {
                 "name": "DesignCourse",
-                "url": "https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow",
+                "url": "https://www.youtube.com/c/DesignCourse",
                 "description": "Css üzerine herşey kaliteli eğitimleri var , best practise vs."
             },
             {
@@ -870,6 +870,61 @@
                 "name": "Mustafa Murat Coşkun",
                 "url": "https://www.youtube.com/channel/UCZNZj3mkdCGJfCoKyl4bSYQ",
                 "description": "#JS #Pyhton #Java"
+            },
+            {
+                "name": "The Coding Train",
+                "url": "https://www.youtube.com/c/TheCodingTrain",
+                "description": "#JS #Programming"
+            },
+            {
+                "name": "Programming with Mosh",
+                "url": "https://www.youtube.com/c/programmingwithmosh",
+                "description": "#JS #Programming"
+            },
+            {
+                "name": "Mehmet Seven",
+                "url": "https://www.youtube.com/c/MehmetSeven",
+                "description": "#JS #NodeJs"
+            },
+            {
+                "name": "LearnCode.academy",
+                "url": "https://www.youtube.com/c/learncodeacademy",
+                "description": "#JS #CSS"
+            },
+            {
+                "name": "Layout Land",
+                "url": "https://www.youtube.com/c/LayoutLand",
+                "description": "#Layout #CSS"
+            },
+            {
+                "name": "Kodluyoruz.org",
+                "url": "https://www.youtube.com/c/Kodluyoruz",
+                "description": "#Eğitim"
+            },
+            {
+                "name": "Chris Coyier",
+                "url": "https://www.youtube.com/c/realcsstricks",
+                "description": "#CSS , Chris Coyier"
+            },
+            {
+                "name":"HardwareAndro",
+                "url":"https://www.youtube.com/c/HardwareAndro",
+                "description":"#Flutter , Veli Bacık"
+            },
+            {
+                "name":"FreeFrontend",
+                "url":"https://www.youtube.com/c/FreeFrontend",
+                "description":"#CSS #Codepen"
+            },
+            {
+                "name":"Ana Tudor",
+                "url":"https://www.youtube.com/c/anatudor",
+                "description":"#CSS #JS"
+            },
+            {
+                "name":"Adam Argyle",
+                "url":"https://www.youtube.com/c/AdamArgyleInk",
+                "description":"#CSS #JS"
             }
         ]
     },
