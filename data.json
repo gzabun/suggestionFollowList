@@ -7,6 +7,11 @@
                 "description": "Front End Developer Feyz Bülteni Kurucusu"
             },
             {
+                "name":"Didem Küçükkaraaslan",
+                "url":"https://twitter.com/DidemKkkaraasl1",
+                "description":"#React #JS"
+            },
+            {
 
                 "name": "Hidayet Doğan",
                 "url": "https://twitter.com/hdogan",
@@ -757,6 +762,11 @@
                 "description": "Akıcı ve Anlaşılır Eğitim Kanalı (#React #Vue #Css #Figma ...)"
             },
             {
+                "name":"Didem Küçükkaraaslan",
+                "url":"https://www.youtube.com/c/codingwithdidem",
+                "description":"#React #JS"
+            },
+            {
                 "name": "Armağan Amcalar",
                 "url": "https://www.youtube.com/channel/UCANCsbie9EorvBNWfpVntGQ",
                 "description": "#Canlı Yayın , #Yazılım Üzerine Herşey , #JS"
@@ -1057,107 +1067,27 @@
             }
         ]
     },
-    "tools": {
-        "name": "Araç/Uygulama Önerileri",
-        "takip": [{
-                "name": "HTML to PUG",
-                "url": "https://html-to-pug.com/",
-                "description": "HTML kodları Pug koduna çeviren araç"
-            },
-            {
-                "name": "CSS Filter Generator",
-                "url": "https://codepen.io/sosuke/pen/Pjoqqp?editors=1010",
-                "description": "#CSS #filter #generator"
-            },
-            {
-                "name": "CSS Specificity calculator",
-                "url": "https://codepen.io/certainlyakey/pen/ycEAh",
-                "description": "#CSS #filter #generator"
-            },
-            {
-                "name": "Hex To Rgba",
-                "url": "http://hex2rgba.devoth.com/",
-                "description": "Girilen Hex Renk kodunu Rgba veya Rgb çeviren araç"
-            },
-            {
-                "name": "Animista",
-                "url": "https://animista.net/play/attention/bounce",
-                "description": "Button ve Box animasyonlarını düzenleme araçları"
-            },
-            {
-                "name": "Grid Calculator",
-                "url": "http://gridcalculator.dk/",
-                "description": "Grid hesaplama aracı"
-            },
-            {
-                "name": "Css3 Generator",
-                "url": "http://css3generator.com/",
-                "description": "Css3 ile gelen bir çok özelliği düzenleme aracı"
-            },
-            {
-                "name": "Css Gradient",
-                "url": "https://cssgradient.io/",
-                "description": "Kalite Gradient düzenleme aracı"
-            },
-            {
-                "name": "CodeBeautify",
-                "url": "https://codebeautify.org/",
-                "description": "Karışık Kod Düzenleme , Generate  ve Editor Araçları mevcut"
-            },
-            {
-                "name": "Shape Divider",
-                "url": "https://www.shapedivider.app/",
-                "description": "Shape düzenleme aracı"
-            },
-            {
-                "name": "Omatsure",
-                "url": "https://omatsuri.app/",
-                "description": "Fake Data,Divider,Renk Paleti,Symbol gibi araçlar"
-            },
-            {
-                "name": "Easeings",
-                "url": "https://easings.net/",
-                "description": "Animasyon çeşitlerini derinlemesine inceleyen araç(math fonksiyonu,css kodları vs.)"
-            },
-            {
-                "name": "flexplorer",
-                "url": "https://bennettfeely.com/flexplorer/",
-                "description": "Flexbox System düzenleme aracı"
-            },
-            {
-                "name": "KeyCode",
-                "url": "https://keycode.info/",
-                "description": "Tıkladığınız tuşun Event'lerini veren araç"
-            },
-            {
-                "name": "OverApi",
-                "url": "https://overapi.com/",
-                "description": "Seçtiğiniz dilin cheat sheet(reference) veren araç(js,jq,css,pyhton...)"
-            },
-            {
-                "name": "Css Arrow",
-                "url": "https://cssarrowplease.com/",
-                "description": "Arrow oluşturma aracı"
-            },
-            {
-                "name": "SVG Editor",
-                "url": "https://editor.method.ac/",
-                "description": "Online Svg Editör"
-            },
-            {
-                "name": "Clamp Editor",
-                "url": "https://maximeroudier.com/typeScaleClampGenerator/",
-                "description": "Calculate clamp for screen"
-            }
-
-        ]
-    },
     "repo": {
         "name": "Repo Önerileri",
         "takip": [{
                 "name": "Web Skills",
                 "url": "https://github.com/andreasbm/web-skills",
                 "description": "Web programlama için yol haritası"
+            },
+            {
+                "name":"Family.scss",
+                "url":"https://github.com/LukyVj/family.scss",
+                "description":"Pseudo class selector library"
+            },
+            {
+                "name":"Kaynak Arşivi",
+                "url":"https://github.com/musayazlik/tasarimcilar-ve-yazilimcilar-icin-kaynak-arsivim",
+                "description":"Yazılımcılar İçin Ücretsiz Faydalı Kaynaklar (v1.1) Musa Yazlık"  
+            },
+            {
+                "name":"33 Js Concepts",
+                "url":"https://github.com/leonardomso/33-js-concepts",
+                "description":"33 Concepts Every JavaScript Developer Should Know"
             },
             {
                 "name": "Okan Davut",
@@ -1358,6 +1288,307 @@
                 "name": "Scroller JS",
                 "url": "http://scrollerjs.com/",
                 "description": "Scroll Paketi"
+            },
+            {
+                "name":"choreographer-js",
+                "url":"https://christinecha.github.io/choreographer-js/",
+                "description":"letter choreographer moving for scroll"
+            },
+            {
+                "name":"AOS",
+                "url":"https://michalsnik.github.io/aos/",
+                "description":"Animate On Scroll Library"
+            },
+            {
+                "name":"interactjs",
+                "url":"https://interactjs.io/",
+                "description":"Draggable"
+            }
+
+        ]
+    },
+    "tools": {
+        "name": "Araç/Uygulama Önerileri",
+        "takip": [{
+                "name": "HTML to PUG",
+                "url": "https://html-to-pug.com/",
+                "description": "HTML kodları Pug koduna çeviren araç"
+            },
+            {
+                "name":"Coolors.co",
+                "url":"https://coolors.co/",
+                "description":"The super fast color schemes generator!"
+            },
+            {
+                "name": "CSS Filter Generator",
+                "url": "https://codepen.io/sosuke/pen/Pjoqqp?editors=1010",
+                "description": "#CSS #filter #generator"
+            },
+            {
+                "name": "CSS Specificity calculator",
+                "url": "https://codepen.io/certainlyakey/pen/ycEAh",
+                "description": "#CSS #filter #generator"
+            },
+            {
+                "name": "Hex To Rgba",
+                "url": "http://hex2rgba.devoth.com/",
+                "description": "Girilen Hex Renk kodunu Rgba veya Rgb çeviren araç"
+            },
+            {
+                "name": "Animista",
+                "url": "https://animista.net/play/attention/bounce",
+                "description": "Button ve Box animasyonlarını düzenleme araçları"
+            },
+            {
+                "name": "Grid Calculator",
+                "url": "http://gridcalculator.dk/",
+                "description": "Grid hesaplama aracı"
+            },
+            {
+                "name": "Css3 Generator",
+                "url": "http://css3generator.com/",
+                "description": "Css3 ile gelen bir çok özelliği düzenleme aracı"
+            },
+            {
+                "name": "Css Gradient",
+                "url": "https://cssgradient.io/",
+                "description": "Kalite Gradient düzenleme aracı"
+            },
+            {
+                "name": "CodeBeautify",
+                "url": "https://codebeautify.org/",
+                "description": "Karışık Kod Düzenleme , Generate  ve Editor Araçları mevcut"
+            },
+            {
+                "name": "Shape Divider",
+                "url": "https://www.shapedivider.app/",
+                "description": "Shape düzenleme aracı"
+            },
+            {
+                "name": "Omatsure",
+                "url": "https://omatsuri.app/",
+                "description": "Fake Data,Divider,Renk Paleti,Symbol gibi araçlar"
+            },
+            {
+                "name": "Easeings",
+                "url": "https://easings.net/",
+                "description": "Animasyon çeşitlerini derinlemesine inceleyen araç(math fonksiyonu,css kodları vs.)"
+            },
+            {
+                "name": "flexplorer",
+                "url": "https://bennettfeely.com/flexplorer/",
+                "description": "Flexbox System düzenleme aracı"
+            },
+            {
+                "name": "KeyCode",
+                "url": "https://keycode.info/",
+                "description": "Tıkladığınız tuşun Event'lerini veren araç"
+            },
+            {
+                "name": "OverApi",
+                "url": "https://overapi.com/",
+                "description": "Seçtiğiniz dilin cheat sheet(reference) veren araç(js,jq,css,pyhton...)"
+            },
+            {
+                "name": "Css Arrow",
+                "url": "https://cssarrowplease.com/",
+                "description": "Arrow oluşturma aracı"
+            },
+            {
+                "name": "SVG Editor",
+                "url": "https://editor.method.ac/",
+                "description": "Online Svg Editör"
+            },
+            {
+                "name": "Clamp Editor",
+                "url": "https://maximeroudier.com/typeScaleClampGenerator/",
+                "description": "Calculate clamp for screen"
+            },
+            {
+                "name":"gitignore generator",
+                "url":"https://www.toptal.com/developers/gitignore",
+                "description":"gitignore generator for IDE"
+            },
+            {
+                "name":"📈 Specificity Visualizer",
+                "url":"https://isellsoap.github.io/specificity-visualizer/",
+                "description":"Specificity Visualizer on Graph"
+            },
+            {
+                "name":"Color Palatte Generator",
+                "url":"https://learnui.design/tools/data-color-picker.html#palette",
+                "description":"Color Palatte Generator"
+            },
+            {
+                "name":"Skeleton Loading",
+                "url":"https://skeletonreact.com/",
+                "description":"Skeleton Loading for Library & Framework"
+                
+            },
+            {
+                "name":"Capturing & Bubbles Dom Event",
+                "url":"https://domevents.dev/",
+                "description":"Capturing & Bubbles Dom Event"
+            },
+            {
+                "name":"JS Image Carver",
+                "url":"https://trekhleb.dev/js-image-carver/",
+                "description":"Resize Image width height"
+            },
+            {
+                "name":"fluid space calculator",
+                "url":"https://utopia.fyi/space/calculator/",
+                "description":"fluid space calculator"
+            },
+            {
+                "name":"fluid type scale calculator",
+                "url":"https://utopia.fyi/type/calculator/",
+                "description":"fluid type scale calculator"
+            },
+            {
+                "name":"Font size scale generator",
+                "url":"https://type-scale.com/",
+                "description":"Font size scale generator"
+            },
+            {
+                "name":"animXYZ",
+                "url":"https://animxyz.com/",
+                "description":"#JS #Animation"
+            },
+            {
+                "name":"Transfonter",
+                "url":"https://transfonter.org/",
+                "description":"font generator"
+            },
+            {
+                "name":"Fontello",
+                "url":"https://fontello.com/",
+                "description":"icon font generator"
+            },
+            {
+                "name":"Css Transform",
+                "url":"https://css-transform.moro.es/",
+                "description":"2D & 3D CSS Transform functions visualizer"
+            },
+            {
+                "name":"Css Layout",
+                "url":"https://csslayout.io/",
+                "description":"#Layout #CSS #HTML"
+            },
+            {
+                "name":"Animista",
+                "url":"https://animista.net/",
+                "description":"CSS Animation"
+            },
+            {
+                "name":"Free Hand Svg",
+                "url":"https://perfect-freehand-example.vercel.app/",
+                "description":"Free Hand Svg"
+            },
+            {
+                "name":"HTML DOM Event",
+                "url":"https://htmldom.dev/",
+                "description":"HTML Dom event practise"
+            },
+            {
+                "name":"Css Arrow generator",
+                "url":"https://cssarrowplease.com/",
+                "description":"css arrow generator"
+            },
+            {
+                "name":"css3 generator",
+                "url":"http://css3generator.com/",
+                "description":"css3 all generator"
+            },
+            {
+                "name":"General Generator",
+                "url":"https://omatsuri.app/",
+                "description":"Open source browser tools for everyday use"
+            },
+            {
+                "name":"1loc",
+                "url":"https://1loc.dev/",
+                "description":"Favorite JavaScript Utilities in single line of code! No more!"
+            },
+            {
+                "name":"Easing functions Cheatsheet",
+                "url":"https://easings.net/",
+                "description":"Easing functions Cheatsheet"
+            },
+            {
+                "name":"Shape Divider Generator",
+                "url":"https://www.shapedivider.app/",
+                "description":"Shape Divider Generator"
+            },
+            {
+                "name":"KeyCode Info",
+                "url":"https://keycode.info/",
+                "description":"Which press to key"
+            },
+            {
+                "name":"AST Explorer",
+                "url":"https://astexplorer.net/",
+                "description":"Code Source Tree"
+            },
+            {
+                "name":"CSS Grid Generator",
+                "url":"https://cssgrid-generator.netlify.app/",
+                "description":"CSS grid generator"
+            },
+            {
+                "name":"RemoveBg",
+                "url":"https://www.remove.bg/upload",
+                "description":"remove background on image"
+            },
+            {
+                "name":"Hover.css",
+                "url":"http://ianlunn.github.io/Hover/",
+                "description":"Preview Hover types"
+            },
+            {
+                "name":"I hate Regex",
+                "url":"https://ihateregex.io/",
+                "description":"Regex Generator"
+            },
+            {
+                "name":"Tiny Helpers",
+                "url":"https://tiny-helpers.dev/",
+                "description":"All Tools Platform"
+            },
+            {
+                "name":"Appydev",
+                "url":"https://appydev.co/",
+                "description":"All Tools Platform"
+            },
+            {
+                "name":"Keyframes Tools",
+                "url":"https://keyframes.app/",
+                "description":"Keyframes helps you write better CSS."
+            },
+            {
+                "name":"Web Tools",
+                "url":"https://webcode.tools/",
+                "description":"Web Tools (css,html,meta tag etc.)"
+            },
+            {
+                "name":"CodeImg",
+                "url":"https://codeimg.io/",
+                "description":"Code With Image"
+            },
+            {
+                "name":"Happy Hues",
+                "url":"https://www.happyhues.co/",
+                "description":"Curated colors in context."
+            },
+            {
+                "name":"Svg Icons",
+                "url":"https://tablericons.com/",
+                "description":"1298 Fully customizable free SVG icons. (MIT license)"
+            },
+            {
+                "name":"Gradient Tools",
+                "url":"https://cssgradient.io/",
+                "description":"CSS Gradient is a happy little website and free tool that lets you create a gradient background for websites"
             }
 
         ]
@@ -1368,6 +1599,161 @@
                 "name": "Türkçe Kaynaklar",
                 "url": "http://turkcekaynaklar.com/",
                 "description": "Türkçe içerik üreten kişilerin listesi"
+            },
+            {
+                "name":"Css in Real Life",
+                "url":"https://css-irl.info/",
+                "description":"#CSS"
+            },
+            {
+                "name":"devhints",
+                "url":"https://devhints.io/",
+                "description":"All language cheatsheets"
+            },
+            {
+                "name":"this vs that",
+                "url":"https://thisthat.dev/",
+                "description":"What is the difference between ___ and ___ in the front-end development?"
+            },
+            {
+                "name":"Javascript Array Explorer",
+                "url":"https://arrayexplorer.netlify.app/",
+                "description":"Array Explorer"
+            },
+            {
+                "name":"jQuery to vanilla JavaScript",
+                "url":"https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/",
+                "description":"query vs pure js"
+            },
+            {
+                "name":"Front End Interview Question",
+                "url":"https://h5bp.org/Front-end-Developer-Interview-Questions/translations/turkish/",
+                "description":"Front End Interview Question"
+            },
+            {
+                "name":"Scotch",
+                "url":"https://scotch.io/",
+                "description":"#Blog #JS"
+            },
+            {
+                "name":"gradienta",
+                "url":"https://gradienta.io/",
+                "description":"gradient css image"
+            },
+            {
+                "name":"Vue.js Example",
+                "url":"https://vuejsexamples.com/",
+                "description":"Vue js example"
+            },
+            {
+                "name":"Javascript Cheatsheets",
+                "url":"https://overapi.com/javascript",
+                "description":"Javascript Cheatsheets"
+            },
+            {
+                "name":"Maintainable Css",
+                "url":"https://maintainablecss.com/",
+                "description":"Write CSS without worrying that overzealous, pre-existing styles will cause problems."
+            },
+            {
+                "name":"Javascript Info",
+                "url":"https://javascript.info/",
+                "description":"#JS #Info"
+            },
+            {
+                "name":"Grid Garden",
+                "url":"https://cssgridgarden.com/#tr",
+                "description":"grid game"  
+            },
+            {
+                "name":"JS is Weird",
+                "url":"https://jsisweird.com/",
+                "description":"#JS #Question"
+            },
+            {
+                "name":"Bootsrap 5 CheatSheet",
+                "url":"https://bootstrap-cheatsheet.themeselection.com/",
+                "description":"Bootsrap 5 CheatSheet"
+            },
+            {
+                "name":"Estelle Weyl",
+                "url":"https://estelle.github.io/",
+                "description":"Estelle Weyl official"
+            },
+            {
+                "name":"Learn CS",
+                "url":"https://teachyourselfcs.com/",
+                "description":"Learn Computer science"
+            },
+            {
+                "name":"Javascript Garden",
+                "url":"https://bonsaiden.github.io/JavaScript-Garden/tr/",
+                "description":"#JS"
+            },
+            {
+                "name":"Eloquent Javascript",
+                "url":"https://eloquentjavascript.net/",
+                "description":"Eloquent javascript book"
+            },
+            {
+                "name":"Ahmad Shadeed",
+                "url":"https://ishadeed.com/",
+                "description":"#CSS"
+            },
+            {
+                "name":"Cheat Sheet",
+                "url":"https://docs.emmet.io/cheat-sheet/",
+                "description":"Html emmet cheat sheet"
+            },
+            {
+                "name":"GitExplorer",
+                "url":"https://gitexplorer.com/",
+                "description":"Find the right commands you need without digging through the web."
+            },
+            {
+                "name":"AnyAPI",
+                "url":"https://any-api.com/",
+                "description":"Documentation and Test Consoles for Over 1400 Public APIs"
+            },
+            {
+                "name":"HTMLHEAD",
+                "url":"https://htmlhead.dev/",
+                "description":"A simple guide to HTML <head> elements"
+            },
+            {
+                "name":"FreeFrontend",
+                "url":"https://freefrontend.com/",
+                "description":"#CSS #JS"
+            },
+            {
+                "name":"30 Second Of Code",
+                "url":"https://www.30secondsofcode.org/",
+                "description":"Short code snippets for all your development"
+            },
+            {
+                "name":"30 second of interviews",
+                "url":"https://30secondsofinterviews.org/",
+                "description":"Frontendle ilgili sorun ve cevaplar"
+            },
+            {
+                "name":"Fatih Acet",
+                "url":"https://fatihacet.com/",
+                "description":"Fatih Acet Official"
+            },
+            {
+                "name":"Freelancer Yol Haritası",
+                "url":"https://freelancer.guide/",
+                "description":"Freelencer Yol Haritası"
+            },
+            {
+                "name":"Prototürk",
+                "url":"https://prototurk.com/",
+                "description":"html css js php"
+            },
+            {
+                "name":"Bookmarkism",
+                "url":"https://www.bookmarkism.com/",
+                "description":"Yer imi paylaş , link kütüphaneni oluştur"
             },
             {
                 "name": "Türkçe Kaynaklar(Onur Dayıbaşı)",
@@ -1383,10 +1769,302 @@
                 "name": "Front End HandBook 2019",
                 "url": "https://frontendmasters.com/books/front-end-handbook/2019/",
                 "description": "Front End developer'ın yol hartitası"
+            },
+            {
+                "name": "Single Div of CSS",
+                "url": "https://a.singlediv.com/",
+                "description": "A Single Div: a CSS drawing project by Lynn Fisher"
+            },
+            {
+                "name": "Web.dev of Learn CSS",
+                "url": "https://a.singlediv.com/",
+                "description": "https://web.dev/learn/css/"
+            },
+            {
+                "name":"Lea Verou",
+                "url":"https://lea.verou.me/",
+                "description":"#CSS #Blog"
+            },
+            {
+                "name":"100 days css challange",
+                "url":"https://100dayscss.com/",
+                "description":"CSS Challange"
+            },
+            {
+                "name":"Josh W Comeau",
+                "url":"https://www.joshwcomeau.com/",
+                "description":"#CSS"
+            },
+            {
+                "name":"Dmitri Pavlutin",
+                "url":"https://dmitripavlutin.com/",
+                "description":"#JS #React"
+            },
+            {
+                "name":"Smashing Magazine",
+                "url":"https://www.smashingmagazine.com/",
+                "description":"#CSS"
+            },
+            {
+                "name":"Open Source Icons",
+                "url":"https://css.gg/",
+                "description":"Open-source CSS, SVG and Figma UI Icons"
+            },
+            {
+                "name":"Can I Email",
+                "url":"https://www.caniemail.com/",
+                "description":"caniuse to mail version"
+            },
+            {
+                "name":"Email Source Site",
+                "url":"https://airtable.com/shrJxffTnSHSdIwqN/tbltBA3AOkEaVg8wO",
+                "description":"Email bülteni"
             }
-
+        ]
+    },
+    "superpeer":{
+        "name":"Superpeer Hesapları",
+        "takip":[
+            {
+                "name":"Adem İlter",
+                "url":"https://superpeer.com/adem",
+                "description":"#CSS #JS"
+            },
+            {
+                "name":"Fatih Kadir Akın",
+                "url":"https://superpeer.com/f",
+                "description":"#JS"
+            },
+            {
+                "name":"İrfan Evrens",
+                "url":"https://superpeer.com/irfanevrens",
+                "description":"#Backend #JS"
+            },
+            {
+                "name":"Hatice Edis",
+                "url":"https://superpeer.com/edisdev",
+                "description":"#JS"
+            },
+            {
+                "name":"Onur Aslan",
+                "url":"https://superpeer.com/onuraslan",
+                "description":"#JS"
+            },
+            {
+                "name":"Onur Dayıbaşı",
+                "url":"https://superpeer.com/odayibasi",
+                "description":"#React #JS"
+            },
+            {
+                "name":"Batuhan Karasakal",
+                "url":"https://superpeer.com/batuhankrskl",
+                "description":"Product Designer"
+            },
+            {
+                "name":"Seyfeddin Bassarac",
+                "url":"https://superpeer.com/seyfeddin",
+                "description":"#ios #swift"
+            },
+            {
+                "name":"Abdullah Veliyev",
+                "url":"https://superpeer.com/abdullah-v",
+                "description":"#frontend"
+            },
+            {
+                "name":"Musa Yazlık",
+                "url":"https://superpeer.com/musayazlik",
+                "description":"Web Designer and Front-End Developer"
+            },
+            {
+                "name":"Oktay Bozacı",
+                "url":"https://superpeer.com/bzc",
+                "description":"Senior Frontend Developer"
+            },
+            {
+                "name":"Bora Kasmer",
+                "url":"https://superpeer.com/borakasmer",
+                "description":"Simply Developer"
+            },
+            {
+                "name":"Adem Furkan Özcan",
+                "url":"https://superpeer.com/ademozcan",
+                "description":"Mobile Developer"
+            },
+            {
+                "name":"Eser Ozvataf",
+                "url":"https://superpeer.com/eser",
+                "description":"ngineering Manager, Open Source and DevOps Evangelist, Twitch Streamer"
+            },
+            {
+                "name":"Emir Karşıyakalı",
+                "url":"https://superpeer.com/emirkarsiyakali",
+                "description":"Developer turned CEO"
+            },
+            {
+                "name":"Ender Ahmet Yurt",
+                "url":"https://superpeer.com/eayurt",
+                "description":"Software Engineer & Podcaster"
+            },
+            {
+                "name":"İren Saltalı",
+                "url":"https://superpeer.com/irensaltali",
+                "description":".NET Consultant @Kloia, CTO @image4.io, AWS Community Builder"
+            },
+            {
+                "name":"Serhat Can",
+                "url":"https://superpeer.com/serhat",
+                "description":"AWS, DevOps, Serverless, Community Builder, SaaS Marketing, Developer Marketing"
+            },
+            {
+                "name":"İzni Burak Demirtaş",
+                "url":"https://superpeer.com/izniburak",
+                "description":"Software Engineer & Architect, Open Source Enthusiast"
+            },
+            {
+                "name":"Tarık Çayır",
+                "url":"https://superpeer.com/tarikcayir/",
+                "description":"YouTube Video Producer, YouTuber, Ex-WordPress Developer"
+            },
+            {
+                "name":"Hasan Sezai Türkyılmaz",
+                "url":"https://superpeer.com/hasan",
+                "description":"Frontend Developer, Law Graduate, Computer Programming Student"
+            },
+            {
+                "name":"Selçuk Ermaya",
+                "url":"https://superpeer.com/selcuk",
+                "description":"Software & Product Developer, Streamer, YouTuber"
+            },
+            {
+                "name":"Mert Susur",
+                "url":"https://superpeer.com/msusur",
+                "description":"Engineering Manager"
+            },
+            {
+                "name":"Baris Ozcan",
+                "url":"https://superpeer.com/barisozcan",
+                "description":"Görüntülü ve Sesli Hikaye Anlatıcılığı"
+            },
+            {
+                "name":"Ferdi Cildiz",
+                "url":"https://superpeer.com/ferdicildiz",
+                "description":"UI & UX"
+            },
+            {
+                "name":"Beril Karabulut",
+                "url":"https://superpeer.com/berilkarabulut",
+                "description":"Design & Communications"
+            },
+            {
+                "name":"Merve Noyan",
+                "url":"https://superpeer.com/mervenoyan",
+                "description":"Google Developer Expert on Machine Learning, Machine Learning Engineer"
+            },
+            {
+                "name":"Cavide Pala",
+                "url":"https://superpeer.com/cavide",
+                "description":"CRO, Analytics, UX, A/B Testing"
+            },
+            {
+                "name":"Suat KÖSE",
+                "url":"https://superpeer.com/suadev",
+                "description":"Software Engineer, Blogger"
+            },
+            {
+                "name":"Bilal Çınarlı",
+                "url":"https://superpeer.com/bcinarli",
+                "description":"Frontend Architect"
+            },
+            {
+                "name":"Azmi Mengü",
+                "url":"https://superpeer.com/azmimengu",
+                "description":"Software Architect, AWS Community Hero"
+            },
+            {
+                "name":"Muhammed Hilmi Koca",
+                "url":"https://superpeer.com/muhammed",
+                "description":"Senior Software Developer"
+            },
+            {
+                "name":"Erhan Yakut",
+                "url":"https://superpeer.com/yakuter",
+                "description":"Golang Developer, Open Source, Blogger"
+            },
+            {
+                "name":"Ebru Gulec",
+                "url":"https://superpeer.com/ebrugulec",
+                "description":"Software Engineer"
+            },
+            {
+                "name":"Baris Ceviz",
+                "url":"https://superpeer.com/peacecwz",
+                "description":"Software Engineer | Problem Solver"
+            },
+            {
+                "name":"Ali İlteriş Keskin",
+                "url":"https://superpeer.com/ilteriskeskin",
+                "description":"Yazılım geliştirici, özgür yazılım sevdalısı ve destekçisi"
+            }
+        ]
+    },
+    "podcast":{
+        "name":"Podcastler",
+        "takip":[
+            {
+                "name":"Farklı Düşün",
+                "url":"https://farkli-dusun.simplecast.com/",
+                "description":"Seyfeddin Başsaraç'ın düzenlediği podcast"
+            },
+            {
+                "name":"Codefiction",
+                "url":"https://codefiction.tech/",
+                "description":"#Podcast, #OpenSource, #Teknoloji, #Yazılım"
+            },
+            {
+                "name":"KodPod",
+                "url":"https://open.spotify.com/show/0r8b6zRJjmCpqnur5OhQlx",
+                "description":"Fatih Kadir Akın'ın düzenlediği podcast"
+            },
+            {
+                "name":"Üretim Bandı",
+                "url":"https://open.spotify.com/show/4MHPb3ds6geoZxosYv2bhP",
+                "description":"Ahmet Ender Yurt'un düzenlediği podcast"
+            },
+            {
+                "name":"The CSS Podcast",
+                "url":"https://open.spotify.com/show/0iW21xFsrH509BGTEs3ufN",
+                "description":"Una Kravets & Adam Argyle düzenlendiği podcast"
+            },
+            {
+                "name":"egghead Podcast",
+                "url":"https://open.spotify.com/show/4FKWy0vjNbt6uFwAzwd7XF",
+                "description":"egghead.io developer chats"
+            },
+            {
+                "name":"Full Stack Radio",
+                "url":"https://fullstackradio.com/",
+                "description":"A podcast for developers interested in building great software products. Hosted by Adam Wathan."
+            },
+            {
+                "name":"JSParty Podcast",
+                "url":"https://changelog.com/jsparty",
+                "description":"a weekly celebration of JavaScript and the web"
+            },
+            {
+                "name":"Syntax FM",
+                "url":"https://syntax.fm/",
+                "description":"A Tasty Treats Podcast for Web Developers. Hosted by Wes Bos & Scott Tolinski"
+            },
+            {
+                "name":"Developer On Fire",
+                "url":"https://developeronfire.com/",
+                "description":"Inspiring software developers tell their stories"
+            },
+            {
+                "name":"CSS-Tricks Screencasts",
+                "url":"https://player.fm/series/css-tricks-screencasts",
+                "description":"CSS-Trick Podcast Hosted by Chris Coyier"
+            }
         ]
     }
-
-
 }
