@@ -33,7 +33,8 @@ function listele(data) {
 
             htmlContent = `   
             <div class="fl col-12 list-header-wrap">
-                <span class="list-header">${socialMedia.name}</span>
+                <span class="list-header">${socialMedia.takip.length} item bulundu</span>
+                <span class="list-header">${socialMedia.name} </span>
                 <input type="text" id="search-item" placeholder="Aramak İstediğiniz Kelimeyi Giriniz...">
 
             </div>
@@ -67,5 +68,4 @@ $(document).ready(function() {
             $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
         });
     })
-
 });
