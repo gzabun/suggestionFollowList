@@ -12,14 +12,9 @@ function listele(data) {
             let htmlContent = ''
 
             function getSortOrder(param) {
-                return function(x, y) {
-                    if (x[param] > y[param]) {
-                        return 1
-                    } else if (x[param] < y[param]) {
-                        return -1
-                    }
-                    return 0
-                }
+                return function (a,b){
+                    return a[param].localeCompare(b[param])
+                };
             }
 
             hesap.sort(getSortOrder("name"));

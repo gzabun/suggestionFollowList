@@ -688,9 +688,69 @@
                 "description": "Aylık yazılımcılar için hafta sonu okumaları diye bülten çıkarıyor(genel yazılım hakkında herşey her konuda makaleleri derliyor)"
             },
             {
-                "name": "Frontend UA",
-                "url": "https://medium.com/@frontender_ua",
-                "description": "Haftalık sadece front-end üzerine çıkan bülten geniş içeriğe sahip (css,vanillia,vue,react,angular,ember,stelve,npm etc.) "
+                "name":"Hüseyin Polat Yürük",
+                "url":"https://medium.com/@hpolatyuruk_tr",
+                "description":"#genel #sektör"
+            },
+            {
+                "name":"Mehmet Baran",
+                "url":"https://medium.com/@mehmet.baran",
+                "description":"#architecture"
+            },
+            {
+                "name":"Fresh Frontend Links",
+                "url":"https://frontender-ua.medium.com/",
+                "description":"Her Hafta frontendle iligi blog,makale derleyen bülten"
+            },
+            {
+                "name":"Fatih Kadir Akın",
+                "url":"https://fkadev.medium.com/",
+                "description":"#JS"
+            },
+            {
+                "name":"Emir Karşıyakalı",
+                "url":"https://medium.com/@EmirKarsiyakali",
+                "description":"#Kommunity #PHP"
+            },
+            {
+                "name":"Addy Osmani",
+                "url":"https://medium.com/@addyosmani",
+                "description":"#css #js"
+            },
+            {
+                "name":"Mustafa Murat Çoşkun",
+                "url":"https://medium.com/@mmuratcoskun",
+                "description":"#js"
+            },
+            {
+                "name":"Mertcan Arguç",
+                "url":"https://arguc-mertcan.medium.com/",
+                "description":"#nodejs #js #linux #devops"
+            },
+            {
+                "name":"Oğuzhan Aslan",
+                "url":"https://medium.com/@oguzhanaslan",
+                "description":"#microfrontend #js #front"
+            },
+            {
+                "name":"Maya Shavin",
+                "url":"https://medium.com/@mayashavin",
+                "description":"#Vue #Frontend #nuxt #css"
+            },
+            {
+                "name":"Emre Mert",
+                "url":"https://emremert117.medium.com/",
+                "description":"#SaaS #genel"
+            },
+            {
+                "name":"Hüseyin Mert",
+                "url":"https://hmert.medium.com/",
+                "description":"#girişim"
+            },
+            {
+                "name": "Remy Sharp",
+                "url": "https://medium.com/@rem",
+                "description": "#css"
             },
             {
                 "name": "Kodluyoruz.org",
