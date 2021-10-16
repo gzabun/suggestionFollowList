@@ -1061,6 +1061,21 @@
                 "description": "Burak Can’ın kodlamaları var css ağırlıklı"
             },
             {
+                "name":"Arden",
+                "url":"https://codepen.io/aderaaij",
+                "description":"#amazing"
+            },
+            {
+                "name":"Codepen TV!",
+                "url":"https://codepen.io/tv",
+                "description":"randomize pen"
+            },
+            {
+                "name":"Adrian Roselli",
+                "url":"https://codepen.io/aardrian",
+                "description":"#CSS #Features"
+            },
+            {
                 "name":"Jamie Coulter",
                 "url":"https://codepen.io/jcoulterdesign",
                 "description":"#css #js"
@@ -1363,6 +1378,11 @@
                 "name":"interactjs",
                 "url":"https://interactjs.io/",
                 "description":"Draggable"
+            },
+            {
+                "name":"Atropos.js",
+                "url":"https://atroposjs.com/",
+                "description":"3d parallax library"
             }
 
         ]
@@ -1659,6 +1679,11 @@
                 "name": "Türkçe Kaynaklar",
                 "url": "http://turkcekaynaklar.com/",
                 "description": "Türkçe içerik üreten kişilerin listesi"
+            },
+            {
+                "name":"Argyle Ink",
+                "url":"https://nerdy.dev/",
+                "description":"#JS #Frontend #CSS"
             },
             {
                 "name":"Css in Real Life",
