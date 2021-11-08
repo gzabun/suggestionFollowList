@@ -1,5 +1,5 @@
 function listele(data) {
-
+ 
     $.ajax({
         type: "GET",
         dataType: "json",
