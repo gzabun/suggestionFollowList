@@ -1,0 +1,10 @@
+@use "sass:math";
+
+@function remCalculation($pxValue) {
+  $globalRem:16;
+  @return (math.div($pxValue,$globalRem)) * 1rem;
+}
+
+@function colorOpacity($color,$opacity:1) {
+  @return rgba($color,$opacity)
+}

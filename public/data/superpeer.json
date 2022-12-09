@@ -1,0 +1,188 @@
+{
+    "name":"Superpeer Hesapları",
+    "takip":[
+        {
+            "name":"Adem İlter",
+            "url":"https://superpeer.com/adem",
+            "description":"#CSS #JS",
+            "tags": ["js","css","scss"]
+        },
+        {
+            "name":"Fatih Kadir Akın",
+            "url":"https://superpeer.com/f",
+            "description":"#JS",
+            "tags": ["js","vue"]
+        },
+        {
+            "name":"İrfan Evrens",
+            "url":"https://superpeer.com/irfanevrens",
+            "description":"#Backend #JS"
+        },
+        {
+            "name":"Hatice Edis",
+            "url":"https://superpeer.com/edisdev",
+            "description":"#JS"
+        },
+        {
+            "name":"Onur Aslan",
+            "url":"https://superpeer.com/onuraslan",
+            "description":"#JS"
+        },
+        {
+            "name":"Onur Dayıbaşı",
+            "url":"https://superpeer.com/odayibasi",
+            "description":"#React #JS"
+        },
+        {
+            "name":"Batuhan Karasakal",
+            "url":"https://superpeer.com/batuhankrskl",
+            "description":"Product Designer"
+        },
+        {
+            "name":"Seyfeddin Bassarac",
+            "url":"https://superpeer.com/seyfeddin",
+            "description":"#ios #swift"
+        },
+        {
+            "name":"Abdullah Veliyev",
+            "url":"https://superpeer.com/abdullah-v",
+            "description":"#frontend"
+        },
+        {
+            "name":"Musa Yazlık",
+            "url":"https://superpeer.com/musayazlik",
+            "description":"Web Designer and Front-End Developer"
+        },
+        {
+            "name":"Oktay Bozacı",
+            "url":"https://superpeer.com/bzc",
+            "description":"Senior Frontend Developer"
+        },
+        {
+            "name":"Bora Kasmer",
+            "url":"https://superpeer.com/borakasmer",
+            "description":"Simply Developer"
+        },
+        {
+            "name":"Adem Furkan Özcan",
+            "url":"https://superpeer.com/ademozcan",
+            "description":"Mobile Developer"
+        },
+        {
+            "name":"Eser Ozvataf",
+            "url":"https://superpeer.com/eser",
+            "description":"ngineering Manager, Open Source and DevOps Evangelist, Twitch Streamer"
+        },
+        {
+            "name":"Emir Karşıyakalı",
+            "url":"https://superpeer.com/emirkarsiyakali",
+            "description":"Developer turned CEO"
+        },
+        {
+            "name":"Ender Ahmet Yurt",
+            "url":"https://superpeer.com/eayurt",
+            "description":"Software Engineer & Podcaster"
+        },
+        {
+            "name":"İren Saltalı",
+            "url":"https://superpeer.com/irensaltali",
+            "description":".NET Consultant @Kloia, CTO @image4.io, AWS Community Builder"
+        },
+        {
+            "name":"Serhat Can",
+            "url":"https://superpeer.com/serhat",
+            "description":"AWS, DevOps, Serverless, Community Builder, SaaS Marketing, Developer Marketing"
+        },
+        {
+            "name":"İzni Burak Demirtaş",
+            "url":"https://superpeer.com/izniburak",
+            "description":"Software Engineer & Architect, Open Source Enthusiast"
+        },
+        {
+            "name":"Tarık Çayır",
+            "url":"https://superpeer.com/tarikcayir/",
+            "description":"YouTube Video Producer, YouTuber, Ex-WordPress Developer"
+        },
+        {
+            "name":"Hasan Sezai Türkyılmaz",
+            "url":"https://superpeer.com/hasan",
+            "description":"Frontend Developer, Law Graduate, Computer Programming Student"
+        },
+        {
+            "name":"Selçuk Ermaya",
+            "url":"https://superpeer.com/selcuk",
+            "description":"Software & Product Developer, Streamer, YouTuber"
+        },
+        {
+            "name":"Mert Susur",
+            "url":"https://superpeer.com/msusur",
+            "description":"Engineering Manager"
+        },
+        {
+            "name":"Baris Ozcan",
+            "url":"https://superpeer.com/barisozcan",
+            "description":"Görüntülü ve Sesli Hikaye Anlatıcılığı"
+        },
+        {
+            "name":"Ferdi Cildiz",
+            "url":"https://superpeer.com/ferdicildiz",
+            "description":"UI & UX"
+        },
+        {
+            "name":"Beril Karabulut",
+            "url":"https://superpeer.com/berilkarabulut",
+            "description":"Design & Communications"
+        },
+        {
+            "name":"Merve Noyan",
+            "url":"https://superpeer.com/mervenoyan",
+            "description":"Google Developer Expert on Machine Learning, Machine Learning Engineer"
+        },
+        {
+            "name":"Cavide Pala",
+            "url":"https://superpeer.com/cavide",
+            "description":"CRO, Analytics, UX, A/B Testing"
+        },
+        {
+            "name":"Suat KÖSE",
+            "url":"https://superpeer.com/suadev",
+            "description":"Software Engineer, Blogger"
+        },
+        {
+            "name":"Bilal Çınarlı",
+            "url":"https://superpeer.com/bcinarli",
+            "description":"Frontend Architect"
+        },
+        {
+            "name":"Azmi Mengü",
+            "url":"https://superpeer.com/azmimengu",
+            "description":"Software Architect, AWS Community Hero"
+        },
+        {
+            "name":"Muhammed Hilmi Koca",
+            "url":"https://superpeer.com/muhammed",
+            "description":"Senior Software Developer"
+        },
+        {
+            "name":"Erhan Yakut",
+            "url":"https://superpeer.com/yakuter",
+            "description":"Golang Developer, Open Source, Blogger"
+        },
+        {
+            "name":"Ebru Gulec",
+            "url":"https://superpeer.com/ebrugulec",
+            "description":"Software Engineer"
+        },
+        {
+            "name":"Baris Ceviz",
+            "url":"https://superpeer.com/peacecwz",
+            "description":"Software Engineer | Problem Solver"
+        },
+        {
+            "name":"Ali İlteriş Keskin",
+            "url":"https://superpeer.com/ilteriskeskin",
+            "description":"Yazılım geliştirici, özgür yazılım sevdalısı ve destekçisi"
+        }
+    ]
+
+}

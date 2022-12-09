@@ -1,0 +1,51 @@
+{
+    "name": "Telegram Takip Önerileri",
+    "takip": [
+        {
+        "name": "Feyz",
+        "url": "https://t.me/feyzli",
+        "description": "Adem İlter'in Feyz bülteni"
+    },
+        {
+            "name": "Jstanbul",
+            "url": "https://t.me/jstanbulGroup",
+            "description": "Jstanbul telegram kanalı",
+            "tags": ["js"]
+        },
+        {
+            "name": "Js Group",
+            "url": "https://t.me/javascriptgroup",
+            "description": "Js ile paylaşımlar"
+        },
+        {
+            "name": "Açık Kaynak",
+            "url": "https://t.me/acikkaynak",
+            "description": "Açık kaynak üzerine herşey"
+        },
+        {
+            "name": "Geliştirici Arşivi",
+            "url": "https://t.me/gelistirici_arsivi ",
+            "description": "Düzenli npm paketleri paylaşılıyor"
+        },
+        {
+            "name": "İrfan Evrens Mimleri",
+            "url": "https://t.me/irfan_evrens_mimleri",
+            "description": "Web Development #PHP #Node.js"
+        },
+        {
+            "name": "Açık Yayın",
+            "url": "https://t.me/acikyayin",
+            "description": "Açık kaynak üzerine Eser Özvataf'ın kanalı"
+        },
+        {
+            "name": "Web Tekno",
+            "url": "https://t.me/webtekno",
+            "description": "Web Tekno Resmi Kanalı"
+        },
+        {
+            "name":"FrontEnd Development",
+            "url":"https://t.me/fedevelopment",
+            "description":"16k takipçisi olan günlük düzenli paylaşımlar yapıyorlar"
+        }
+    ]
+}

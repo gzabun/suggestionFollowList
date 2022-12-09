@@ -1,0 +1,245 @@
+{
+    "name": "Web Önerileri",
+    "takip": [
+        {
+        "name": "Türkçe Kaynaklar",
+        "url": "http://turkcekaynaklar.com/",
+        "description": "Türkçe içerik üreten kişilerin listesi"
+    },
+        {
+            "name":"Bram.us",
+            "url":"https://www.bram.us/",
+            "description":"#CSS #Blok"
+        },
+        {
+            "name":"Julia Miocene",
+            "url":"https://miocene.io/",
+            "description":"#CSS #Animation #Art"
+        },
+        {
+            "name":"Argyle Ink",
+            "url":"https://nerdy.dev/",
+            "description":"#JS #Frontend #CSS"
+        },
+        {
+            "name":"Css in Real Life",
+            "url":"https://css-irl.info/",
+            "description":"#CSS"
+        },
+        {
+            "name":"devhints",
+            "url":"https://devhints.io/",
+            "description":"All language cheatsheets"
+        },
+        {
+            "name":"this vs that",
+            "url":"https://thisthat.dev/",
+            "description":"What is the difference between ___ and ___ in the front-end development?"
+        },
+        {
+            "name":"Javascript Array Explorer",
+            "url":"https://arrayexplorer.netlify.app/",
+            "description":"Array Explorer"
+        },
+        {
+            "name":"jQuery to vanilla JavaScript",
+            "url":"https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/",
+            "description":"query vs pure js"
+        },
+        {
+            "name":"Front End Interview Question",
+            "url":"https://h5bp.org/Front-end-Developer-Interview-Questions/translations/turkish/",
+            "description":"Front End Interview Question"
+        },
+        {
+            "name":"Scotch",
+            "url":"https://scotch.io/",
+            "description":"#Blog #JS"
+        },
+        {
+            "name":"gradienta",
+            "url":"https://gradienta.io/",
+            "description":"gradient css image"
+        },
+        {
+            "name":"Vue.js Example",
+            "url":"https://vuejsexamples.com/",
+            "description":"Vue js example"
+        },
+        {
+            "name":"Javascript Cheatsheets",
+            "url":"https://overapi.com/javascript",
+            "description":"Javascript Cheatsheets"
+        },
+        {
+            "name":"Maintainable Css",
+            "url":"https://maintainablecss.com/",
+            "description":"Write CSS without worrying that overzealous, pre-existing styles will cause problems."
+        },
+        {
+            "name":"Javascript Info",
+            "url":"https://javascript.info/",
+            "description":"#JS #Info"
+        },
+        {
+            "name":"Grid Garden",
+            "url":"https://cssgridgarden.com/#tr",
+            "description":"grid game"
+        },
+        {
+            "name":"JS is Weird",
+            "url":"https://jsisweird.com/",
+            "description":"#JS #Question"
+        },
+        {
+            "name":"Bootsrap 5 CheatSheet",
+            "url":"https://bootstrap-cheatsheet.themeselection.com/",
+            "description":"Bootsrap 5 CheatSheet"
+        },
+        {
+            "name":"Estelle Weyl",
+            "url":"https://estelle.github.io/",
+            "description":"Estelle Weyl official"
+        },
+        {
+            "name":"Learn CS",
+            "url":"https://teachyourselfcs.com/",
+            "description":"Learn Computer science"
+        },
+        {
+            "name":"Javascript Garden",
+            "url":"https://bonsaiden.github.io/JavaScript-Garden/tr/",
+            "description":"#JS"
+        },
+        {
+            "name":"Eloquent Javascript",
+            "url":"https://eloquentjavascript.net/",
+            "description":"Eloquent javascript book"
+        },
+        {
+            "name":"Ahmad Shadeed",
+            "url":"https://ishadeed.com/",
+            "description":"#CSS"
+        },
+        {
+            "name":"Cheat Sheet",
+            "url":"https://docs.emmet.io/cheat-sheet/",
+            "description":"Html emmet cheat sheet"
+        },
+        {
+            "name":"GitExplorer",
+            "url":"https://gitexplorer.com/",
+            "description":"Find the right commands you need without digging through the web."
+        },
+        {
+            "name":"AnyAPI",
+            "url":"https://any-api.com/",
+            "description":"Documentation and Test Consoles for Over 1400 Public APIs"
+        },
+        {
+            "name":"HTMLHEAD",
+            "url":"https://htmlhead.dev/",
+            "description":"A simple guide to HTML <head> elements"
+        },
+        {
+            "name":"FreeFrontend",
+            "url":"https://freefrontend.com/",
+            "description":"#CSS #JS"
+        },
+        {
+            "name":"30 Second Of Code",
+            "url":"https://www.30secondsofcode.org/",
+            "description":"Short code snippets for all your development"
+        },
+        {
+            "name":"30 second of interviews",
+            "url":"https://30secondsofinterviews.org/",
+            "description":"Frontendle ilgili sorun ve cevaplar"
+        },
+        {
+            "name":"Fatih Acet",
+            "url":"https://fatihacet.com/",
+            "description":"Fatih Acet Official"
+        },
+        {
+            "name":"Freelancer Yol Haritası",
+            "url":"https://freelancer.guide/",
+            "description":"Freelencer Yol Haritası"
+        },
+        {
+            "name":"Prototürk",
+            "url":"https://prototurk.com/",
+            "description":"html css js php"
+        },
+        {
+            "name":"Bookmarkism",
+            "url":"https://www.bookmarkism.com/",
+            "description":"Yer imi paylaş , link kütüphaneni oluştur"
+        },
+        {
+            "name": "Türkçe Kaynaklar(Onur Dayıbaşı)",
+            "url": "http://turkcekaynaklar.com/",
+            "description": "Onur Dayıbaşı'nın derlediği Türkçe Kaynaklar"
+        },
+        {
+            "name": "Chrome DevTools Resmi Sayfası",
+            "url": "https://developers.google.com/web/tools/chrome-devtools/",
+            "description": "Chrome DevTools Resmi Sayfası(Yenilikler,Kullanımlar anlatılıyor)"
+        },
+        {
+            "name": "Front End HandBook 2019",
+            "url": "https://frontendmasters.com/books/front-end-handbook/2019/",
+            "description": "Front End developer'ın yol hartitası"
+        },
+        {
+            "name": "Single Div of CSS",
+            "url": "https://a.singlediv.com/",
+            "description": "A Single Div: a CSS drawing project by Lynn Fisher"
+        },
+        {
+            "name": "Web.dev of Learn CSS",
+            "url": "https://a.singlediv.com/",
+            "description": "https://web.dev/learn/css/"
+        },
+        {
+            "name":"Lea Verou",
+            "url":"https://lea.verou.me/",
+            "description":"#CSS #Blog"
+        },
+        {
+            "name":"100 days css challange",
+            "url":"https://100dayscss.com/",
+            "description":"CSS Challange"
+        },
+        {
+            "name":"Josh W Comeau",
+            "url":"https://www.joshwcomeau.com/",
+            "description":"#CSS"
+        },
+        {
+            "name":"Dmitri Pavlutin",
+            "url":"https://dmitripavlutin.com/",
+            "description":"#JS #React"
+        },
+        {
+            "name":"Smashing Magazine",
+            "url":"https://www.smashingmagazine.com/",
+            "description":"#CSS"
+        },
+        {
+            "name":"Open Source Icons",
+            "url":"https://css.gg/",
+            "description":"Open-source CSS, SVG and Figma UI Icons"
+        },
+        {
+            "name":"Can I Email",
+            "url":"https://www.caniemail.com/",
+            "description":"caniuse to mail version"
+        },
+        {
+            "name":"Email Source Site",
+            "url":"https://airtable.com/shrJxffTnSHSdIwqN/tbltBA3AOkEaVg8wO",
+            "description":"Email bülteni"
+        }
+    ]
+}

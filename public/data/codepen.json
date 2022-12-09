@@ -1,0 +1,95 @@
+{
+    "name": "Codepen Takip Önerileri",
+    "takip": [
+        {
+        "name": "Burak Can",
+        "url": "https://codepen.io/neoberg",
+        "description": "Burak Can’ın kodlamaları var css ağırlıklı"
+    },
+        {
+            "name":"Julia Miocene",
+            "url" :"https://codepen.io/miocene",
+            "description":"#CSS Animation"
+        },
+        {
+            "name":"Arden",
+            "url":"https://codepen.io/aderaaij",
+            "description":"#amazing"
+        },
+        {
+            "name":"Codepen TV!",
+            "url":"https://codepen.io/tv",
+            "description":"randomize pen"
+        },
+        {
+            "name":"Adrian Roselli",
+            "url":"https://codepen.io/aardrian",
+            "description":"#CSS #Features"
+        },
+        {
+            "name":"Jamie Coulter",
+            "url":"https://codepen.io/jcoulterdesign",
+            "description":"#css #js"
+        },
+        {
+            "name":"Voxel Model",
+            "url":"https://codepen.io/jcoulterdesign/pen/vYyzZdo",
+            "description":"#dynamic #model"
+        },
+        {
+            "name":"Killerek",
+            "url":"https://codepen.io/killerek/",
+            "description":"#js #idle"
+        },
+        {
+            "name":"Amit Sheen",
+            "url":"https://codepen.io/amit_sheen/",
+            "description":"#js #css"
+        },
+        {
+            "name":"Aaron Iker",
+            "url":"https://codepen.io/aaroniker",
+            "description":"#css #component #element #ui"
+        },
+        {
+            "name":"Carolina Artz",
+            "url":"https://codepen.io/carolineartz/",
+            "description":"#art"
+        },
+        {
+            "name":"Housamz",
+            "url":"https://codepen.io/housamz",
+            "description":"#interactive"
+        },
+        {
+            "name": "Adam Dipinto",
+            "url": "https://codepen.io/AdamDipinto",
+            "description": "Çeşitli css pratikleri"
+        },
+        {
+            "name": "Adem İlter",
+            "url": "https://codepen.io/ademilter",
+            "description": "Adem ilterin çalışmaları"
+        },
+        {
+            "name": "Anastasia Goodwin",
+            "url": "https://codepen.io/agoodwin",
+            "description": "Farklı css pratikleri"
+        },
+        {
+            "name": "Fatih Hayrioğlu",
+            "url": "https://codepen.io/fatihhayri",
+            "description": "Fatih hayrioğlunun blogunda yaptığı çalışmalar yer alıyor"
+        },
+        {
+            "name": "Sercan Eraslan",
+            "url": "https://codepen.io/sercaneraslan",
+            "description": "Sercan eraslan’ın çalışmaları"
+        },
+        {
+            "name": "Adam Argyle",
+            "url": "https://codepen.io/argyleink",
+            "description": "#CSS #JS #UX"
+        }
+    ]
+}

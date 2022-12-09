@@ -1,0 +1,43 @@
+:root{
+  .theme-light{
+    --body-background: #EDF1F5;
+    --card-background: #fff;
+    --primary-text:#5e6676;
+    --secondary-text:#272727;
+    --thirdy-text:#979797;
+  }
+}
+
+:root{
+  .theme-dark{
+    --body-background:#17212f;
+    --card-background:#1f2d40;
+    --primary-text: #eee;
+    --secondary-text:#f7f7f7;
+    --thirdy-text:#ccc;
+  }
+}
+
+@font-palette-values --Logo {
+  font-family: Nabla;
+  base-palette: 2;
+  /*override-colors:
+      0 #e35252,
+      1 #06f;*/
+}
+
+@font-palette-values --Logo2 {
+  font-family: Nabla;
+  base-palette: 3 ;
+  /*override-colors:
+      0 #e35252,
+      1 #06f;*/
+}
+
+
+
+
+
+
+
+

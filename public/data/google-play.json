@@ -1,0 +1,56 @@
+{
+    "name": "Google Play Uygulama Önerileri",
+    "takip": [
+        {
+        "name": "Css Play",
+        "url": "https://play.google.com/store/apps/details?id=com.webref.cssplay",
+        "description": "Css üzerine güzel playground"
+
+    },
+        {
+            "name": "Css Doküman",
+            "url": "https://play.google.com/store/apps/details?id=com.webref.htmlbasics",
+            "description": "Genişletilmiş html css dokümanları"
+        },
+        {
+            "name": "w3school",
+            "url": "https://play.google.com/store/apps/details?id=com.W3school.Anbu",
+            "description": "w3schools resmi uygulaması"
+        },
+        {
+            "name": "jq cheats sheet",
+            "url": "https://play.google.com/store/apps/details?id=com.andrix.jquery",
+            "description": "Jq cheats sheet"
+        },
+        {
+            "name": "Css Playground 2",
+            "url": "https://play.google.com/store/apps/details?id=com.GG_Noob.css_mama",
+            "description": "Css playground alternatifi"
+        },
+        {
+            "name": "Web Development",
+            "url": "https://play.google.com/store/apps/details?id=everyneedz.com.webdevelopment",
+            "description": "Genişletilmiş web programlama dokümanları"
+        },
+        {
+            "name": "Front End Masters",
+            "url": "https://play.google.com/store/apps/details?id=in.mjg.frontendmasters.store",
+            "description": "Front-end masters uygulaması"
+        },
+        {
+            "name": "Jq Referance",
+            "url": "https://play.google.com/store/apps/details?id=unicodeitsolutions.com.jqueryreference",
+            "description": "Jq reference’leri var"
+        },
+        {
+            "name": "CodeAcademy",
+            "url": "https://play.google.com/store/apps/details?id=com.ryzac.codecademygo",
+            "description": "Codeacademy’nin uygulaması ama sorular sitedeki gibi değil"
+        },
+        {
+            "name": "Sass App",
+            "url": "https://play.google.com/store/apps/details?id=com.sikapps.sass",
+            "description": "Sass Öğrenmek isteyenler için"
+        }
+    ]
+}

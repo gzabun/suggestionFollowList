@@ -1,0 +1,23 @@
+%tags{
+  .tag-item{
+    background: #06f;
+    padding: 4px 6px;
+    border-radius: 8px;
+    color: #fff;
+
+    $tag-colors:(
+            "vue":#20B5D6,
+            "js":#D6A320,
+            "css":#37A3D7,
+            "scss":#CF659A
+    );
+
+    @each $name,$color in $tag-colors{
+      &.tag-#{$name}{
+        background: $color;
+
+      }
+    }
+  }
+}
+

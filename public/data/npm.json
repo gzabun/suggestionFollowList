@@ -1,0 +1,32 @@
+{
+    "name": "Npm Paketleri",
+    "takip": [
+        {
+        "name": "Scroller JS",
+        "url": "http://scrollerjs.com/",
+        "description": "Scroll Paketi"
+    },
+        {
+            "name":"choreographer-js",
+            "url":"https://christinecha.github.io/choreographer-js/",
+            "description":"letter choreographer moving for scroll"
+        },
+        {
+            "name":"AOS",
+            "url":"https://michalsnik.github.io/aos/",
+            "description":"Animate On Scroll Library"
+        },
+        {
+            "name":"interactjs",
+            "url":"https://interactjs.io/",
+            "description":"Draggable"
+        },
+        {
+            "name":"Atropos.js",
+            "url":"https://atroposjs.com/",
+            "description":"3d parallax library"
+        }
+
+    ]
+
+}

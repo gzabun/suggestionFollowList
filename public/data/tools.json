@@ -1,0 +1,288 @@
+{
+    "name": "Araç/Uygulama Önerileri",
+    "takip": [
+        {
+        "name": "HTML to PUG",
+        "url": "https://html-to-pug.com/",
+        "description": "HTML kodları Pug koduna çeviren araç"
+    },
+        {
+            "name":"Coolors.co",
+            "url":"https://coolors.co/",
+            "description":"The super fast color schemes generator!"
+        },
+        {
+            "name": "CSS Filter Generator",
+            "url": "https://codepen.io/sosuke/pen/Pjoqqp?editors=1010",
+            "description": "#CSS #filter #generator"
+        },
+        {
+            "name": "CSS Specificity calculator",
+            "url": "https://codepen.io/certainlyakey/pen/ycEAh",
+            "description": "#CSS #filter #generator"
+        },
+        {
+            "name": "Hex To Rgba",
+            "url": "http://hex2rgba.devoth.com/",
+            "description": "Girilen Hex Renk kodunu Rgba veya Rgb çeviren araç"
+        },
+        {
+            "name": "Animista",
+            "url": "https://animista.net/play/attention/bounce",
+            "description": "Button ve Box animasyonlarını düzenleme araçları"
+        },
+        {
+            "name": "Grid Calculator",
+            "url": "http://gridcalculator.dk/",
+            "description": "Grid hesaplama aracı"
+        },
+        {
+            "name": "Css3 Generator",
+            "url": "http://css3generator.com/",
+            "description": "Css3 ile gelen bir çok özelliği düzenleme aracı"
+        },
+        {
+            "name": "Css Gradient",
+            "url": "https://cssgradient.io/",
+            "description": "Kalite Gradient düzenleme aracı"
+        },
+        {
+            "name": "CodeBeautify",
+            "url": "https://codebeautify.org/",
+            "description": "Karışık Kod Düzenleme , Generate  ve Editor Araçları mevcut"
+        },
+        {
+            "name": "Shape Divider",
+            "url": "https://www.shapedivider.app/",
+            "description": "Shape düzenleme aracı"
+        },
+        {
+            "name": "Omatsure",
+            "url": "https://omatsuri.app/",
+            "description": "Fake Data,Divider,Renk Paleti,Symbol gibi araçlar"
+        },
+        {
+            "name": "Easeings",
+            "url": "https://easings.net/",
+            "description": "Animasyon çeşitlerini derinlemesine inceleyen araç(math fonksiyonu,css kodları vs.)"
+        },
+        {
+            "name": "flexplorer",
+            "url": "https://bennettfeely.com/flexplorer/",
+            "description": "Flexbox System düzenleme aracı"
+        },
+        {
+            "name": "KeyCode",
+            "url": "https://keycode.info/",
+            "description": "Tıkladığınız tuşun Event'lerini veren araç"
+        },
+        {
+            "name": "OverApi",
+            "url": "https://overapi.com/",
+            "description": "Seçtiğiniz dilin cheat sheet(reference) veren araç(js,jq,css,pyhton...)"
+        },
+        {
+            "name": "Css Arrow",
+            "url": "https://cssarrowplease.com/",
+            "description": "Arrow oluşturma aracı"
+        },
+        {
+            "name": "SVG Editor",
+            "url": "https://editor.method.ac/",
+            "description": "Online Svg Editör"
+        },
+        {
+            "name": "Clamp Editor",
+            "url": "https://maximeroudier.com/typeScaleClampGenerator/",
+            "description": "Calculate clamp for screen"
+        },
+        {
+            "name":"gitignore generator",
+            "url":"https://www.toptal.com/developers/gitignore",
+            "description":"gitignore generator for IDE"
+        },
+        {
+            "name":"📈 Specificity Visualizer",
+            "url":"https://isellsoap.github.io/specificity-visualizer/",
+            "description":"Specificity Visualizer on Graph"
+        },
+        {
+            "name":"Color Palatte Generator",
+            "url":"https://learnui.design/tools/data-color-picker.html#palette",
+            "description":"Color Palatte Generator"
+        },
+        {
+            "name":"Skeleton Loading",
+            "url":"https://skeletonreact.com/",
+            "description":"Skeleton Loading for Library & Framework"
+
+        },
+        {
+            "name":"Capturing & Bubbles Dom Event",
+            "url":"https://domevents.dev/",
+            "description":"Capturing & Bubbles Dom Event"
+        },
+        {
+            "name":"JS Image Carver",
+            "url":"https://trekhleb.dev/js-image-carver/",
+            "description":"Resize Image width height"
+        },
+        {
+            "name":"fluid space calculator",
+            "url":"https://utopia.fyi/space/calculator/",
+            "description":"fluid space calculator"
+        },
+        {
+            "name":"fluid type scale calculator",
+            "url":"https://utopia.fyi/type/calculator/",
+            "description":"fluid type scale calculator"
+        },
+        {
+            "name":"Font size scale generator",
+            "url":"https://type-scale.com/",
+            "description":"Font size scale generator"
+        },
+        {
+            "name":"animXYZ",
+            "url":"https://animxyz.com/",
+            "description":"#JS #Animation"
+        },
+        {
+            "name":"Transfonter",
+            "url":"https://transfonter.org/",
+            "description":"font generator"
+        },
+        {
+            "name":"Fontello",
+            "url":"https://fontello.com/",
+            "description":"icon font generator"
+        },
+        {
+            "name":"Css Transform",
+            "url":"https://css-transform.moro.es/",
+            "description":"2D & 3D CSS Transform functions visualizer"
+        },
+        {
+            "name":"Css Layout",
+            "url":"https://csslayout.io/",
+            "description":"#Layout #CSS #HTML"
+        },
+        {
+            "name":"Animista",
+            "url":"https://animista.net/",
+            "description":"CSS Animation"
+        },
+        {
+            "name":"Free Hand Svg",
+            "url":"https://perfect-freehand-example.vercel.app/",
+            "description":"Free Hand Svg"
+        },
+        {
+            "name":"HTML DOM Event",
+            "url":"https://htmldom.dev/",
+            "description":"HTML Dom event practise"
+        },
+        {
+            "name":"Css Arrow generator",
+            "url":"https://cssarrowplease.com/",
+            "description":"css arrow generator"
+        },
+        {
+            "name":"css3 generator",
+            "url":"http://css3generator.com/",
+            "description":"css3 all generator"
+        },
+        {
+            "name":"General Generator",
+            "url":"https://omatsuri.app/",
+            "description":"Open source browser tools for everyday use"
+        },
+        {
+            "name":"1loc",
+            "url":"https://1loc.dev/",
+            "description":"Favorite JavaScript Utilities in single line of code! No more!"
+        },
+        {
+            "name":"Easing functions Cheatsheet",
+            "url":"https://easings.net/",
+            "description":"Easing functions Cheatsheet"
+        },
+        {
+            "name":"Shape Divider Generator",
+            "url":"https://www.shapedivider.app/",
+            "description":"Shape Divider Generator"
+        },
+        {
+            "name":"KeyCode Info",
+            "url":"https://keycode.info/",
+            "description":"Which press to key"
+        },
+        {
+            "name":"AST Explorer",
+            "url":"https://astexplorer.net/",
+            "description":"Code Source Tree"
+        },
+        {
+            "name":"CSS Grid Generator",
+            "url":"https://cssgrid-generator.netlify.app/",
+            "description":"CSS grid generator"
+        },
+        {
+            "name":"RemoveBg",
+            "url":"https://www.remove.bg/upload",
+            "description":"remove background on image"
+        },
+        {
+            "name":"Hover.css",
+            "url":"http://ianlunn.github.io/Hover/",
+            "description":"Preview Hover types"
+        },
+        {
+            "name":"I hate Regex",
+            "url":"https://ihateregex.io/",
+            "description":"Regex Generator"
+        },
+        {
+            "name":"Tiny Helpers",
+            "url":"https://tiny-helpers.dev/",
+            "description":"All Tools Platform"
+        },
+        {
+            "name":"Appydev",
+            "url":"https://appydev.co/",
+            "description":"All Tools Platform"
+        },
+        {
+            "name":"Keyframes Tools",
+            "url":"https://keyframes.app/",
+            "description":"Keyframes helps you write better CSS."
+        },
+        {
+            "name":"Web Tools",
+            "url":"https://webcode.tools/",
+            "description":"Web Tools (css,html,meta tag etc.)"
+        },
+        {
+            "name":"CodeImg",
+            "url":"https://codeimg.io/",
+            "description":"Code With Image"
+        },
+        {
+            "name":"Happy Hues",
+            "url":"https://www.happyhues.co/",
+            "description":"Curated colors in context."
+        },
+        {
+            "name":"Svg Icons",
+            "url":"https://tablericons.com/",
+            "description":"1298 Fully customizable free SVG icons. (MIT license)"
+        },
+        {
+            "name":"Gradient Tools",
+            "url":"https://cssgradient.io/",
+            "description":"CSS Gradient is a happy little website and free tool that lets you create a gradient background for websites"
+        }
+
+    ]
+
+}

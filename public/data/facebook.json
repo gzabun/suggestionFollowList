@@ -1,0 +1,50 @@
+{
+    "name": "Facebook Takip Önerileri",
+    "takip": [
+        {
+            "name": "HTML, CSS & JavaScript",
+            "url": "https://www.facebook.com/groups/learanHTMLandCSS/",
+            "description": "HTML, CSS & JavaScript"
+        },
+        {
+            "name": "Web Tasarım Türkiye",
+            "url": "https://www.facebook.com/groups/1490869124558178/",
+            "description": "HTML, PHP, CSS, JS, Jquery "
+        },
+        {
+            "name": "NodeJS Türkiye",
+            "url": "https://www.facebook.com/groups/nodejstr/",
+            "description": "NodeJS Türkiye"
+        },
+        {
+            "name": "JavaScript",
+            "url": "https://www.facebook.com/groups/alljavascript/",
+            "description": "JavaScript"
+        },
+        {
+            "name": "HTML CSS JAVASCRIPT ✪",
+            "url": "https://www.facebook.com/groups/programmershub1/",
+            "description": "HTML CSS JAVASCRIPT ✪"
+        },
+        {
+            "name": "Vue.js Developers",
+            "url": "https://www.facebook.com/groups/VueJsDevelopersGroup/",
+            "description": "Vue.js Developers"
+        },
+        {
+            "name": "EDUKEY by Emrah Yüksel",
+            "url": "https://www.facebook.com/groups/emrahyuksel/",
+            "description": "Emrah Yüksel #PHP #CSS #JS"
+        },
+        {
+            "name": "JavaScript",
+            "url": "https://www.facebook.com/groups/JavaScript.Programming/",
+            "description": "Javascript"
+        },
+        {
+            "name": "Front-End Developers",
+            "url": "https://www.facebook.com/groups/html5css3javascripttut/",
+            "description": "Front-End Developers"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+@mixin fontCalculation($weight,$font-size,$line-height,$color,$opacity:1,$font-family:none) {
+  font-weight: $weight;
+  font-size: remCalculation($font-size);
+  line-height: remCalculation($line-height);
+
+  @if ($color != transparent and type-of($color) == 'color'){
+    @include colorOpacity($color,$opacity);
+  } @else {
+    color:$color;
+  }
+
+  @if ($font-family != none){
+    font-family:$font-family;
+  }
+}
+
+@mixin scrollBarColor($width:3,$height:3,$radius:3,$scColor:transparent,$thColor:#000) {
+  &::-webkit-scrollbar {
+    width: remCalculation($width);
+    height: remCalculation($height);
+    background: $scColor;
+    border-radius: remCalculation($radius);
+
+  }
+
+  &::-webkit-scrollbar-button {
+    display: none;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background:$thColor;
+    border-radius: remCalculation($radius);
+
+  }
+
+}
+
+@mixin scrollBar {
+  &::-webkit-scrollbar {
+    width: remCalculation(5);
+    height: remCalculation(5);
+    background: #d3d3d3;
+    border-radius: remCalculation(5);
+  }
+
+  &::-webkit-scrollbar-button {
+    display: none;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background:rgba(0,0,0,0.25);
+    border-radius: remCalculation(5);
+  }
+
+}
+
+@mixin lineClamp($line){
+  display: -webkit-box;
+  -webkit-line-clamp: $line;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+@mixin colorOpacity($color,$opacity:1){
+  color: colorOpacity($color,$opacity);
+}

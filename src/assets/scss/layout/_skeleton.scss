@@ -1,0 +1,25 @@
+.app-wrapper{
+  display: flex;
+  flex-direction: column;
+  background: var(--body-background);
+  column-gap: 100vh;
+  height: 100vh;
+  overflow: auto;
+}
+.section-wrapper{
+  display: flex;
+  background: var(--body-background);
+  padding: 20px;
+  column-gap: 20px;
+  max-height: calc(100vh - 8rem);
+  height: calc(100vh - 8rem);
+  overflow: auto;
+  >nav{
+    flex: 1;
+  }
+  >main{
+    width: 100%;
+    transition: all .75s ease-out;
+
+  }
+}

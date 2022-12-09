@@ -1,0 +1,136 @@
+{
+    "name": "Medium Takip Önerileri",
+    "takip": [
+        {
+        "name": "MHK E-Bülten",
+        "url": "https://medium.com/@mhkoca",
+        "description": "Aylık yazılımcılar için hafta sonu okumaları diye bülten çıkarıyor(genel yazılım hakkında herşey her konuda makaleleri derliyor)"
+    },
+        {
+            "name":"Hüseyin Polat Yürük",
+            "url":"https://medium.com/@hpolatyuruk_tr",
+            "description":"#genel #sektör"
+        },
+        {
+            "name":"Mehmet Baran",
+            "url":"https://medium.com/@mehmet.baran",
+            "description":"#architecture"
+        },
+        {
+            "name":"Fresh Frontend Links",
+            "url":"https://frontender-ua.medium.com/",
+            "description":"Her Hafta frontendle iligi blog,makale derleyen bülten"
+        },
+        {
+            "name":"Fatih Kadir Akın",
+            "url":"https://fkadev.medium.com/",
+            "description":"#JS"
+        },
+        {
+            "name":"Emir Karşıyakalı",
+            "url":"https://medium.com/@EmirKarsiyakali",
+            "description":"#Kommunity #PHP"
+        },
+        {
+            "name":"Addy Osmani",
+            "url":"https://medium.com/@addyosmani",
+            "description":"#css #js"
+        },
+        {
+            "name":"Mustafa Murat Çoşkun",
+            "url":"https://medium.com/@mmuratcoskun",
+            "description":"#js"
+        },
+        {
+            "name":"Mertcan Arguç",
+            "url":"https://arguc-mertcan.medium.com/",
+            "description":"#nodejs #js #linux #devops"
+        },
+        {
+            "name":"Oğuzhan Aslan",
+            "url":"https://medium.com/@oguzhanaslan",
+            "description":"#microfrontend #js #front"
+        },
+        {
+            "name":"Maya Shavin",
+            "url":"https://medium.com/@mayashavin",
+            "description":"#Vue #Frontend #nuxt #css"
+        },
+        {
+            "name":"Emre Mert",
+            "url":"https://emremert117.medium.com/",
+            "description":"#SaaS #genel"
+        },
+        {
+            "name":"Hüseyin Mert",
+            "url":"https://hmert.medium.com/",
+            "description":"#girişim"
+        },
+        {
+            "name": "Remy Sharp",
+            "url": "https://medium.com/@rem",
+            "description": "#css"
+        },
+        {
+            "name": "Kodluyoruz.org",
+            "url": "https://medium.com/@kodluyoruz",
+            "description": "Yazılıma yeni başlayanlar için eğitim sunan topluluğun makaleleri"
+        },
+        {
+            "name": "Yusuf Özlü",
+            "url": "https://medium.com/@ozluy",
+            "description": "Js üzerine makale yazan front-end developer"
+        },
+        {
+            "name": "Adem İlter",
+            "url": "https://medium.com/@ademilter",
+            "description": "Adem İlter Makaleleri"
+        },
+        {
+            "name": "Onur Dayıbaşı",
+            "url": "https://medium.com/@odayibasi",
+            "description": "Js üzerine kaliteli ve sürekli makaleler yazan yazılım mühendisi"
+        },
+        {
+            "name": "Mehmet Baran",
+            "url": "https://medium.com/@mehmet.baran",
+            "description": "Yazılım mimarileri üzerine makaleler"
+        },
+        {
+            "name": "Oğuz Kılıç",
+            "url": "https://medium.com/@oguzkilic",
+            "description": "Front-end üzerine makaleler"
+        },
+        {
+            "name": "Büşra Memiş",
+            "url": "https://medium.com/@busramemis",
+            "description": "Css üzerine Makaleler"
+        },
+        {
+            "name": "İbrahim Kürce",
+            "url": "https://medium.com/@ibrahim.kurce",
+            "description": "Algoritma ve genel kültür üzerine makaleler"
+        },
+        {
+            "name": "Nevcan Uludaş",
+            "url": "https://medium.com/@nevcanuludas",
+            "description": "Front-end üzerine makaleler"
+        },
+        {
+            "name": "Gökhan Şengün",
+            "url": "https://medium.com/@gokhansengun",
+            "description": "Genel yazılım üzerine makaleler"
+        },
+        {
+            "name": "Hana Kamer",
+            "url": "https://medium.com/@hanac",
+            "description": "Front-end üzerine paylaşımlar"
+        },
+        {
+            "name": "Tahir Kardak",
+            "url": "https://medium.com/@thrkardak",
+            "description": "Js üzerine makaleler"
+        }
+    ]
+
+}

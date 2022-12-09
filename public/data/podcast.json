@@ -1,0 +1,60 @@
+{
+    "name":"Podcastler",
+    "takip":[
+        {
+            "name":"Farklı Düşün",
+            "url":"https://farkli-dusun.simplecast.com/",
+            "description":"Seyfeddin Başsaraç'ın düzenlediği podcast"
+        },
+        {
+            "name":"Codefiction",
+            "url":"https://codefiction.tech/",
+            "description":"#Podcast, #OpenSource, #Teknoloji, #Yazılım"
+        },
+        {
+            "name":"KodPod",
+            "url":"https://open.spotify.com/show/0r8b6zRJjmCpqnur5OhQlx",
+            "description":"Fatih Kadir Akın'ın düzenlediği podcast"
+        },
+        {
+            "name":"Üretim Bandı",
+            "url":"https://open.spotify.com/show/4MHPb3ds6geoZxosYv2bhP",
+            "description":"Ahmet Ender Yurt'un düzenlediği podcast"
+        },
+        {
+            "name":"The CSS Podcast",
+            "url":"https://open.spotify.com/show/0iW21xFsrH509BGTEs3ufN",
+            "description":"Una Kravets & Adam Argyle düzenlendiği podcast"
+        },
+        {
+            "name":"egghead Podcast",
+            "url":"https://open.spotify.com/show/4FKWy0vjNbt6uFwAzwd7XF",
+            "description":"egghead.io developer chats"
+        },
+        {
+            "name":"Full Stack Radio",
+            "url":"https://fullstackradio.com/",
+            "description":"A podcast for developers interested in building great software products. Hosted by Adam Wathan."
+        },
+        {
+            "name":"JSParty Podcast",
+            "url":"https://changelog.com/jsparty",
+            "description":"a weekly celebration of JavaScript and the web"
+        },
+        {
+            "name":"Syntax FM",
+            "url":"https://syntax.fm/",
+            "description":"A Tasty Treats Podcast for Web Developers. Hosted by Wes Bos & Scott Tolinski"
+        },
+        {
+            "name":"Developer On Fire",
+            "url":"https://developeronfire.com/",
+            "description":"Inspiring software developers tell their stories"
+        },
+        {
+            "name":"CSS-Tricks Screencasts",
+            "url":"https://player.fm/series/css-tricks-screencasts",
+            "description":"CSS-Trick Podcast Hosted by Chris Coyier"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "name": "İnstagram Takip Önerileri",
+    "takip": [
+        {
+        "name": "termyanen",
+        "url": "https://www.instagram.com/termyanen/",
+        "description": "CSS Pratikleri"
+    },
+        {
+            "name": "Msk Codes",
+            "url": "https://www.instagram.com/msk.codes/",
+            "description": "CSS Pratikleri",
+            "tags": ["css","scss"]
+        },
+        {
+            "name": "Programmer Plus",
+            "url": "https://www.instagram.com/programmerplus/",
+            "description": "Programlama Pratikleri"
+        },
+        {
+            "name": "JS Mastery",
+            "url": "https://www.instagram.com/javascriptmastery/",
+            "description": "JS Pratikleri"
+        },
+        {
+            "name": "Webmaster Project",
+            "url": "https://www.instagram.com/webmaster_project/",
+            "description": "Web Geliştiriciliği hakkında paylaşımlar"
+        },
+        {
+            "name": "Web Devs Tips",
+            "url": "https://www.instagram.com/webdev.tips/",
+            "description": "Web programlama üzerine paylaşımlar"
+        },
+        {
+            "name": "We Love Web Design",
+            "url": "https://www.instagram.com/welovewebdesign/",
+            "description": "Web üzerine ui / ux tasarımlar paylaşılıyor"
+        },
+        {
+            "name": "Daily Web Design",
+            "url": "https://www.instagram.com/dailywebdesign/",
+            "description": "Web üzerine ui / ux paylaşılıyor"
+        },
+        {
+            "name": "ui designed",
+            "url": "https://www.instagram.com/ui.designed/",
+            "description": "Web üzerine ui / ux paylaşılıyor"
+        },
+        {
+            "name": "Room Js",
+            "url": "https://www.instagram.com/room_js/",
+            "description": "JS Pratikleri"
+        },
+        {
+            "name": "Freecode Camp",
+            "url": "https://www.instagram.com/freecodecamp/",
+            "description": "freecodecamp resmi hesabı"
+        },
+        {
+            "name": "Awesome Color",
+            "url": "https://www.instagram.com/awsmcolor/",
+            "description": "Günlük düzenli renk paletleri paylaşıyor"
+        },
+        {
+            "name": "Adem İlter",
+            "url": "https://www.instagram.com/ademilter/",
+            "description": "Adem ilter instagram hesabı genellikle kişisel paylaşım yapıyor"
+        },
+        {
+            "name": "Kod Mühendisi",
+            "url": "https://www.instagram.com/kodmuhendisi/",
+            "description": "Türkçe hesaplar arasında kaliteli paylaşımlar"
+        },
+        {
+            "name": "Kod Efendi",
+            "url": "https://www.instagram.com/kod.efendi/",
+            "description": "Türkçe içerik"
+        },
+        {
+            "name": "WebDev Official",
+            "url": "https://www.instagram.com/webdevofficial/",
+            "description": "Web Development"
+        },
+        {
+            "name": "Prototürk",
+            "url": "https://www.instagram.com/prototurk.official/",
+            "description": "Güzel Pratikler ve kod kısaltmaları paylaşıyor"
+        },
+        {
+            "name": "UX Mars",
+            "url": "https://www.instagram.com/ux.mars/",
+            "description": "ui / ux üzerine aktif bir sayfa"
+        }
+    ]
+
+}

@@ -1,0 +1,29 @@
+body{
+  font-family: 'Nunito', sans-serif;
+}
+
+ul,li{
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+::-webkit-scrollbar {
+  width: 0.25rem;
+  height: 0.25rem;
+  background: hsla(0,0%,100%,.1);
+  border-radius: 0.25rem;
+}
+
+::-webkit-scrollbar-button {
+  display: none;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(0,0,0,.2);
+  border-radius: 0.25rem;
+}
+
+:is(h1,h2,h3,h4,h5,h6),p{
+  margin: 0;
+}
+

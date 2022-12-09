@@ -1,0 +1,216 @@
+{
+    "name": "Repo Önerileri",
+    "takip": [
+        {
+        "name": "Web Skills",
+        "url": "https://github.com/andreasbm/web-skills",
+        "description": "Web programlama için yol haritası"
+    },
+        {
+            "name":"Family.scss",
+            "url":"https://github.com/LukyVj/family.scss",
+            "description":"Pseudo class selector library"
+        },
+        {
+            "name":"Kaynak Arşivi",
+            "url":"https://github.com/musayazlik/tasarimcilar-ve-yazilimcilar-icin-kaynak-arsivim",
+            "description":"Yazılımcılar İçin Ücretsiz Faydalı Kaynaklar (v1.1) Musa Yazlık"
+        },
+        {
+            "name":"33 Js Concepts",
+            "url":"https://github.com/leonardomso/33-js-concepts",
+            "description":"33 Concepts Every JavaScript Developer Should Know"
+        },
+        {
+            "name": "Okan Davut",
+            "url": "https://github.com/okandavut",
+            "description": "#Front End"
+        },
+        {
+            "name": "Scroll Booster",
+            "url": "https://ilyashubin.github.io/scrollbooster/",
+            "description": "Scroll Manipülasyonları"
+        },
+        {
+            "name": "AutoComplete.js",
+            "url": "https://github.com/TarekRaafat/autoComplete.js",
+            "description": "Search Auto Complete"
+        },
+        {
+            "name": "FreeCodeCamp",
+            "url": "https://github.com/freeCodeCamp",
+            "description": "FreeCodeCamp Github Hesabı"
+        },
+        {
+            "name": "Estelle Weyl",
+            "url": "https://estelle.github.io/",
+            "description": "Estelle Weyl github hesabı"
+        },
+        {
+            "name": "Türkçe Refactor Kılavuzu",
+            "url": "https://github.com/alirizaadiyahsi/refactoring-guide-in-turkish",
+            "description": "Ali Rıza Adıyahşi'nin hazırlamış olduğu türkçe refactor kılavuzu"
+        },
+        {
+            "name": "Tasarım Desenleri",
+            "url": "https://github.com/yusufyilmazfr/tasarim-desenleri-turkce-kaynak",
+            "description": "Tasarım desenleri için türkçe kaynak"
+        },
+        {
+            "name": "Stylie",
+            "url": "http://jeremyckahn.github.io/stylie/",
+            "description": "Animasyon Düzenleme Aracı"
+        },
+        {
+            "name": "Svg path editor",
+            "url": "https://yqnn.github.io/svg-path-editor/",
+            "description": "Svg düzenleme aracı"
+        },
+        {
+            "name": "Diana Smith",
+            "url": "https://github.com/cyanharlow",
+            "description": "Genellik Css üzerine çalışmalar"
+        },
+        {
+            "name": "Clean Code",
+            "url": "https://github.com/foss-dev/clean-code-javascript-tr",
+            "description": "JS Clean Code ile ilgili Dökümanlar"
+        },
+        {
+            "name": "Hatice Edis",
+            "url": "https://github.com/edisdev",
+            "description": "Front End Developer"
+        },
+        {
+            "name": "Fatih Kadir Akın",
+            "url": "https://github.com/f",
+            "description": "Front End Developer"
+        },
+        {
+            "name": "Brad Traversy",
+            "url": "https://github.com/bradtraversy",
+            "description": "#JS #CSS #HTML"
+        },
+        {
+            "name": "Adam Argyle",
+            "url": "https://github.com/argyleink",
+            "description": "CSS/JS/UX"
+        },
+        {
+            "name":"Codefiction",
+            "url": "https://github.com/codefiction",
+            "description": "Codefiction Podcast"
+        },
+        {
+            "name":"Murat Çorlu",
+            "url": "https://github.com/muratcorlu",
+            "description": "#Angular"
+        },
+        {
+            "name":"Mehmet Yurtar",
+            "url": "https://github.com/yurtarmehmet",
+            "description": "#React"
+        },
+        {
+            "name":"Oğuzhan Aslan",
+            "url": "https://github.com/oguzhanaslan",
+            "description": "#FrontEnd #MicroFrontEnd"
+        },
+        {
+            "name":"Levent Arman Özak",
+            "url": "https://github.com/armanozak",
+            "description": "#Angular"
+        },
+        {
+            "name":"Sadık Turan",
+            "url": "https://github.com/sadikturan",
+            "description": "#Front End"
+        },
+        {
+            "name":"Volkan Özçelik",
+            "url": "https://github.com/v0lkan",
+            "description": "#JS"
+        },
+        {
+            "name":"Armağan Amcalar",
+            "url": "https://github.com/dashersw",
+            "description": "#JS"
+        },
+        {
+            "name":"Bruno Simon",
+            "url": "https://github.com/brunosimon",
+            "description": "#JS"
+        },
+        {
+            "name":"30 Second Of Code",
+            "url": "https://github.com/30-seconds/30-seconds-of-code",
+            "description": "#JS Best Practise"
+        },
+        {
+            "name":"Türkçe Clean Code Kılavuzu",
+            "url": "https://github.com/alirizaadiyahsi/refactoring-guide-in-turkish",
+            "description": "https://github.com/foss-dev/clean-code-javascript-tr"
+        },
+        {
+            "name":"IronHack",
+            "url": "https://github.com/ironhack",
+            "description": "#JS #CSS #Example"
+        },
+        {
+            "name":"Javascript Questions",
+            "url":"https://github.com/lydiahallie/javascript-questions",
+            "description":"#JS #Question"
+        },
+        {
+            "name":"Front End BookMarks",
+            "url":"https://github.com/dypsilon/frontend-dev-bookmarks",
+            "description":"Front End Bookmarks"
+        },
+        {
+            "name":"Airbnb Js Styleguide",
+            "url":"https://github.com/airbnb/javascript",
+            "description":"Airbnb JavaScript Style Guide"
+        },
+        {
+            "name":"Awesome Cheatsheet",
+            "url":"https://github.com/LeCoupa/awesome-cheatsheets",
+            "description":"JS,HTML,CSS and more cheatsheet"
+        },
+        {
+            "name":"Jobs Hiring",
+            "url":"https://github.com/poteto/hiring-without-whiteboards",
+            "description":"Hiring Without Whiteboards"
+        },
+        {
+            "name":"Lovell Fuller",
+            "url":"https://github.com/lovell",
+            "description":"#JS #Avif-cli"
+        },
+        {
+            "name":"Uncss",
+            "url":"https://github.com/uncss/uncss",
+            "description":"uncss"
+        },
+        {
+            "name":"Windows UI for Web",
+            "url":"https://github.com/mehmetsagir/windows-ui",
+            "description":"Windows UI for Web , CSS , VUE"
+        },
+        {
+            "name":"Coding Garden with CJ",
+            "url":"https://github.com/CodingGarden",
+            "description":"#JS #CSS #Example"
+        },
+        {
+            "name":"JavaScript Algorithms Handbook",
+            "url":"https://github.com/trekhleb/javascript-algorithms",
+            "description":"JavaScript Algorithms and Data Structures"
+        },
+        {
+            "name":"Awesome Design Patterns",
+            "url":"https://github.com/DovAmir/awesome-design-patterns",
+            "description":"Few Awesome Software and Architectural Design Patterns"
+        }
+
+    ]
+}

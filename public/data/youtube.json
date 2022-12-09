@@ -1,0 +1,186 @@
+{
+    "name": "Youtube Takip Önerileri",
+    "takip": [
+        {
+        "name": "Adem İlter",
+        "url": "https://www.youtube.com/channel/UC1Z-a8i2Ce4oIEMV-S3iFrg",
+        "description": "Akıcı ve Anlaşılır Eğitim Kanalı (#React #Vue #Css #Figma ...)"
+    },
+        {
+            "name":"Didem Küçükkaraaslan",
+            "url":"https://www.youtube.com/c/codingwithdidem",
+            "description":"#React #JS",
+            "tags": ["js","react"]
+        },
+        {
+            "name": "Armağan Amcalar",
+            "url": "https://www.youtube.com/channel/UCANCsbie9EorvBNWfpVntGQ",
+            "description": "#Canlı Yayın , #Yazılım Üzerine Herşey , #JS"
+        },
+        {
+            "name": "CS50",
+            "url": "https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA",
+            "description": "Harvard üniversitesi'nin efsane cs50 eğitimleri nin resmi kanalı"
+        },
+        {
+            "name": "DesignCourse",
+            "url": "https://www.youtube.com/c/DesignCourse",
+            "description": "Css üzerine herşey kaliteli eğitimleri var , best practise vs."
+        },
+        {
+            "name": "Devnot",
+            "url": "https://www.youtube.com/channel/UCgKcX7YBsGbdLrZQyOKMLQA",
+            "description": "Devnot’un youtube kanalı yapılan webinar , seminer , konferans vs. burda yayınlıyorlar"
+        },
+        {
+            "name": "Chrome DevTools",
+            "url": "https://www.youtube.com/user/ChromeDevelopers/videos",
+            "description": "Chrome devtools ve yazıım üzerine"
+        },
+        {
+            "name": "Online Tutorials",
+            "url": "https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog",
+            "description": "Css , js tutorial ları var"
+        },
+        {
+            "name": "Online web ustaad",
+            "url": "https://www.youtube.com/channel/UC8xTHK97Ng__KZvGcO_K7CA",
+            "description": "#JS #CSS #Eğitim #Pratik"
+        },
+        {
+            "name": "Prototürk",
+            "url": "https://www.youtube.com/channel/UC1VAnqF9VLHNXngLwpov4kA",
+            "description": "Prototürk’ün kanalı php , jquery ağırlıklı eğitimler"
+        },
+        {
+            "name": "Selman Kahya",
+            "url": "https://www.youtube.com/channel/UC9Z-Gc_BkYuW75jKcTJICJA",
+            "description": "#Canlı Yayın ,6-7 saatlik kodlama yayınları mevcut"
+        },
+        {
+            "name": "The Net Ninja",
+            "url": "https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg",
+            "description": "Web Üzerine Eğitimler"
+        },
+        {
+            "name": "Traversy Media",
+            "url": "https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA",
+            "description": "#JS #Eğitim"
+        },
+        {
+            "name": "Uğur Umutoğlu",
+            "url": "https://www.youtube.com/channel/UCpFcAp-klqUMATCKS71ZXPw",
+            "description": "Türkiye de ki yazılımcılarla söyleşi yapan yazılım mühendisi"
+        },
+        {
+            "name": "Çay Kahve İnsan",
+            "url": "https://www.youtube.com/channel/UCD37i3UdHYc9MJ1MnuQ6n2Q",
+            "description": "Türkiye de ki yazılımcılarla söyleşi yapan yazılım mühendisi"
+        },
+        {
+            "name": "Doğukan Güven Nomak",
+            "url": "https://www.youtube.com/channel/UCbu25feEIe6fY9fZx8BCMSA",
+            "description": "Türkiye de ki yazılımcılarla söyleşi yapan yazılım mühendisi"
+        },
+        {
+            "name": "Sadi Evren Şeker",
+            "url": "https://www.youtube.com/channel/UCkkgrhDCJheXQNIFqUVw0_g",
+            "description": "#Mimari #Algoritma #JS #Java #OOP"
+        },
+        {
+            "name": "Emrah Yüksel",
+            "url": "https://www.youtube.com/channel/UC2u9Gc37Rq44dB3mW4Kdi-w",
+            "description": "Emrah yükselin kanalı ağırlıklı php olmak üzeri jquery eğitimleride var "
+        },
+        {
+            "name": "Eser Özvataf",
+            "url": "https://www.youtube.com/channel/UCS3eVZDirUNTFrteoJsLP4g",
+            "description": "Eser özvataf twitch yayınlarını kanalda paylaşıyor yazılım üzerine yorumlar yada grup sohbetleri"
+        },
+        {
+            "name": "Gökhan Kandemir",
+            "url": "https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg",
+            "description": "#Vue #Php"
+        },
+        {
+            "name": "Layout Land",
+            "url": "https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag",
+            "description": "Css layout üzerine"
+        },
+        {
+            "name": "Prisync Labs",
+            "url": "https://www.youtube.com/channel/UCAYAwQ-SKG2-o4c5UQcitTQ",
+            "description": "Genel Kültür , Yazılım"
+        },
+        {
+            "name": "SFHTML5",
+            "url": "https://www.youtube.com/channel/UCyupHmJVuUGpCMzemHYnUqQ",
+            "description": "Front End Yenilikleri"
+        },
+        {
+            "name": "Webnoob",
+            "url": "https://www.youtube.com/channel/UCVI6tv5boZ62bSsd8k9eM7Q",
+            "description": "#Vue #Eğitim"
+        },
+        {
+            "name": "Mustafa Murat Coşkun",
+            "url": "https://www.youtube.com/channel/UCZNZj3mkdCGJfCoKyl4bSYQ",
+            "description": "#JS #Pyhton #Java"
+        },
+        {
+            "name": "The Coding Train",
+            "url": "https://www.youtube.com/c/TheCodingTrain",
+            "description": "#JS #Programming"
+        },
+        {
+            "name": "Programming with Mosh",
+            "url": "https://www.youtube.com/c/programmingwithmosh",
+            "description": "#JS #Programming"
+        },
+        {
+            "name": "Mehmet Seven",
+            "url": "https://www.youtube.com/c/MehmetSeven",
+            "description": "#JS #NodeJs"
+        },
+        {
+            "name": "LearnCode.academy",
+            "url": "https://www.youtube.com/c/learncodeacademy",
+            "description": "#JS #CSS"
+        },
+        {
+            "name": "Layout Land",
+            "url": "https://www.youtube.com/c/LayoutLand",
+            "description": "#Layout #CSS"
+        },
+        {
+            "name": "Kodluyoruz.org",
+            "url": "https://www.youtube.com/c/Kodluyoruz",
+            "description": "#Eğitim"
+        },
+        {
+            "name": "Chris Coyier",
+            "url": "https://www.youtube.com/c/realcsstricks",
+            "description": "#CSS , Chris Coyier"
+        },
+        {
+            "name":"HardwareAndro",
+            "url":"https://www.youtube.com/c/HardwareAndro",
+            "description":"#Flutter , Veli Bacık"
+        },
+        {
+            "name":"FreeFrontend",
+            "url":"https://www.youtube.com/c/FreeFrontend",
+            "description":"#CSS #Codepen"
+        },
+        {
+            "name":"Ana Tudor",
+            "url":"https://www.youtube.com/c/anatudor",
+            "description":"#CSS #JS"
+        },
+        {
+            "name":"Adam Argyle",
+            "url":"https://www.youtube.com/c/AdamArgyleInk",
+            "description":"#CSS #JS"
+        }
+    ]
+}

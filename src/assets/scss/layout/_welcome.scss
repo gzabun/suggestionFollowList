@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Yuji+Boku&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bellota&display=swap');
+.welcome--content-wrapper{
+  display: flex;
+  flex-wrap: wrap;
+  @media screen and (max-width: 768px) {
+    flex-direction: column;
+    flex-wrap: nowrap;
+  }
+  .welcome-text{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    row-gap: 40px;
+    h1{
+      @include fontCalculation(400,36,38,var(--primary-text));
+      max-width: 300px;
+      text-align: center;
+      font-family: 'Yuji Boku', serif;
+    }
+    p{
+      @include fontCalculation(400,18,20,var(--secondary-text));
+      max-width: 300px;
+      text-align: center;
+      font-family: 'Bellota', cursive;
+
+    }
+  }
+  .welcome-content{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+
+    svg{
+      max-width: 100%;
+
+      transform: rotate3d(-11, 50, 7, 33deg);
+      @media screen and (min-width: 992px) {
+        scale: 1.7;
+      }
+    }
+  }
+}
