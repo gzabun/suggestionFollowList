@@ -109,7 +109,7 @@ export default {
       }
     },
     fetchFollowList(fileName){
-      fetch(`/public/data/${fileName}.json`, {
+      fetch(`/data/${fileName}.json`, {
         method: 'GET',
         headers: {
           'Accept': 'application/json',

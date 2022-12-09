@@ -128,7 +128,7 @@ export default {
   },
   methods:{
     fetchFollowList(el){
-      return fetch(`/public/data/${el}.json`, {
+      return fetch(`/data/${el}.json`, {
         method: 'GET',
         headers: {
           'Accept': 'application/json',
