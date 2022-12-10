@@ -1,19 +1,15 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import WelcomePage from "@/views/WelcomePage.vue";
-import MainPage from "@/views/MainPage.vue";
-import MainPageTags from "@/views/MainPageTags.vue";
-
 
 const router = createRouter({
   history: createWebHistory(),
   routes: [
     {
       path: '/',
-      component: WelcomePage,
+      component: () => import('/src/views/WelcomePage.vue'),
     },
     {
       path: '/:social',
-      component: MainPage,
+      component: () => import('/src/views/MainPage.vue'),
       props:true,
       meta:{
         listIcon: true
@@ -21,7 +17,7 @@ const router = createRouter({
     },
     {
       path: '/tags/:tag',
-      component: MainPageTags,
+      component: () => import('/src/views/MainPageTags.vue'),
       props:true,
       meta:{
         listIcon:true
