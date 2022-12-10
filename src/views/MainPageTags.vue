@@ -69,9 +69,9 @@
 </template>
 
 <script>
-import IconLink from "../components/icons/IconLink.vue";
-import IconSearch from "../components/icons/IconSearch.vue";
-import ItemsNotFound from "../components/ItemsNotFound.vue";
+import IconLink from "@/components/icons/IconLink.vue";
+import IconSearch from "@/components/icons/IconSearch.vue";
+import ItemsNotFound from "@/components/ItemsNotFound.vue";
 export default {
   name: "MainPage",
   components: {ItemsNotFound, IconSearch, IconLink},
