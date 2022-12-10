@@ -20,9 +20,9 @@ export default defineConfig({
     preprocessorOptions: {
       scss: {
         additionalData: `
-              @import "./src/assets/scss/helpers/_variable.scss";
-              @import "./src/assets/scss/helpers/_function.scss";
-              @import "./src/assets/scss/helpers/_mixin.scss";`
+              @import "@/assets/scss/helpers/_variable.scss";
+              @import "@/assets/scss/helpers/_function.scss";
+              @import "@/assets/scss/helpers/_mixin.scss";`
       }
     }
   }

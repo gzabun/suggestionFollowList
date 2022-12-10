@@ -73,7 +73,7 @@ import IconLink from "@/components/icons/IconLink.vue";
 import IconSearch from "@/components/icons/IconSearch.vue";
 import ItemsNotFound from "@/components/ItemsNotFound.vue";
 export default {
-  name: "MainPage",
+  name: "MainPageTags",
   components: {ItemsNotFound, IconSearch, IconLink},
   inject:['getShowMenu','getListType'],
   watch: {
