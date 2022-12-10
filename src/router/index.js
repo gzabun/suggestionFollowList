@@ -1,7 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import WelcomePage from "/src/views/WelcomePage.vue";
-import MainPage from "/src/views/MainPage.vue";
-import MainPageTags from "/src/views/MainPageTags.vue";
+import WelcomePage from "@/views/WelcomePage.vue";
+import MainPage from "@/views/MainPage.vue";
+import MainPageTags from "@/views/MainPageTags.vue";
 
 
 const router = createRouter({
