@@ -6,7 +6,7 @@ import pluginRewriteAll from 'vite-plugin-rewrite-all';
 
 
 export default defineConfig({
-  base:'',
+  base:'./',
   plugins: [vue(),pluginRewriteAll()],
   resolve: {
     alias: {
