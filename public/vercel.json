@@ -1,7 +1,7 @@
 {
   "rewrites": [
-    { "source": "/:path*", "destination": "/index.html" },
-    { "source": "/tags/:path*", "destination": "/index.html" }
+    { "source": "./:path*", "destination": "./index.html" },
+    { "source": "./tags/:path*", "destination": "./index.html" }
   ]
 }
 
