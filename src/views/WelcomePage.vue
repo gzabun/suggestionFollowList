@@ -9,7 +9,7 @@
    <div class="welcome-content">
      <WelcomeImg v-if="true" class="welcome-img"/>
    </div>
-  </main >
+  </main>
 </template>
 
 <script>

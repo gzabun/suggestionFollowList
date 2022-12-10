@@ -189,6 +189,7 @@ export default {
     this.isMenuOpen = this.getShowMenu
     this.navigationDomManipulate()
     this.isListType = this.getListType
+
   },
 
   created() {
