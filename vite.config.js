@@ -15,7 +15,7 @@ const LoginHtmlFallbackPlugin = {
 }
 
 export default defineConfig({
-  rewrites: [{ "source": "/(.*)", "destination": "/" }],
+  rewrites: [{ "source": "/(.*)", "destination": "/index.html" }],
   base:'',
   plugins: [vue(),pluginRewriteAll(),LoginHtmlFallbackPlugin],
   resolve: {
