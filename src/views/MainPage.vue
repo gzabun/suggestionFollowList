@@ -31,16 +31,18 @@
           </div>
 
         </div>
+        <ItemsNotFound v-if="searchList.length < 1"/>
       </div>
     </main >
 </template>
 
 <script>
-import IconLink from "../components/icons/IconLink.vue";
-import IconSearch from "../components/icons/IconSearch.vue";
+import IconLink from "@/components/icons/IconLink.vue";
+import IconSearch from "@/components/icons/IconSearch.vue";
+import ItemsNotFound from "@/components/ItemsNotFound.vue";
 export default {
   name: "MainPage",
-  components: {IconSearch, IconLink},
+  components: {ItemsNotFound, IconSearch, IconLink},
   inject:['getShowMenu','getListType'],
   watch: {
     $route: function (val) {
