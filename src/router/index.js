@@ -5,11 +5,11 @@ const router = createRouter({
   routes: [
     {
       path: '/',
-      component: () => import('/src/views/WelcomePage.vue'),
+      component: () => import('@/views/WelcomePage.vue'),
     },
     {
       path: '/:social',
-      component: () => import('/src/views/MainPage.vue'),
+      component: () => import('@/views/MainPage.vue'),
       props:true,
       meta:{
         listIcon: true
@@ -17,7 +17,7 @@ const router = createRouter({
     },
     {
       path: '/tags/:tag',
-      component: () => import('/src/views/MainPageTags.vue'),
+      component: () => import('@/views/MainPageTags.vue'),
       props:true,
       meta:{
         listIcon:true
