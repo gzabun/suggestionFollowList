@@ -9,7 +9,8 @@
         {
             "name":"Bram.us",
             "url":"https://www.bram.us/",
-            "description":"#CSS #Blok"
+            "description":"#CSS #Blok",
+            "tags": ["js","css","react"]
         },
         {
             "name":"Julia Miocene",
