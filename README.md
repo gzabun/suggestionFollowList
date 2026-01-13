@@ -1,12 +1,11 @@
 # Preview
 
-Link : https://vercel.com/gzabun/suggestion
+Link : [https://vercel.com/gzabun/suggestion](https://suggestion-follow-list.vercel.app/)
 
 # suggestionFollow
 
 This template should help get you started developing with Vue 3 in Vite.
 
-Link : https://vercel.com/gzabun/suggestion
 
 ## Recommended IDE Setup
 
