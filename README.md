@@ -1,6 +1,6 @@
 # Preview
 
-Link : [https://vercel.com/gzabun/suggestion](https://suggestion-follow-list.vercel.app/)
+Link : Takipçi Listesi (https://suggestion-follow-list.vercel.app/)
 
 # suggestionFollow
 
